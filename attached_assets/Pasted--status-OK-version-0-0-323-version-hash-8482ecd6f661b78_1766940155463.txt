@@ -1,0 +1,794 @@
+
+  "status": "OK",
+  "version": "0.0.323",
+  "version_hash": "8482ecd6f661b786af6c03fd266e737107935033",
+  "ts": "2025-12-28T16:37:24.48652700Z",
+  "data": {
+    "matches": [
+      {
+        "item_id": 1007722,
+        "item_daily_id": 234,
+        "item_status": 4,
+        "item_time": "2025-12-28T19:40:00+03:00",
+        "home": "V-Sporting",
+        "away": "V-Porto",
+        "item_name": "V-Sporting / V-Porto",
+        "item_league": "Portugal",
+        "odds": {
+          "1": {
+            "id": 1,
+            "type": "1X2",
+            "odds": {
+              "1": {
+                "id": 1,
+                "odds_name": "1",
+                "odds_val": 2.5
+              },
+              "2": {
+                "id": 2,
+                "odds_name": "X",
+                "odds_val": 2.9
+              },
+              "3": {
+                "id": 3,
+                "odds_name": "2",
+                "odds_val": 2.75
+              },
+              "4": {
+                "id": 4,
+                "odds_name": "1X",
+                "odds_val": 1.4
+              },
+              "5": {
+                "id": 5,
+                "odds_name": "X2",
+                "odds_val": 1.5
+              }
+            }
+          },
+          "2": {
+            "id": 2,
+            "type": "1X2HT",
+            "odds": {
+              "6": {
+                "id": 6,
+                "odds_name": "1",
+                "odds_val": 3.65
+              },
+              "7": {
+                "id": 7,
+                "odds_name": "X",
+                "odds_val": 1.75
+              },
+              "8": {
+                "id": 8,
+                "odds_name": "2",
+                "odds_val": 3.85
+              },
+              "9": {
+                "id": 9,
+                "odds_name": "1X",
+                "odds_val": 1.2
+              },
+              "10": {
+                "id": 10,
+                "odds_name": "X2",
+                "odds_val": 1.25
+              }
+            }
+          },
+          "3": {
+            "id": 3,
+            "type": "U/O",
+            "odds": {
+              "11": {
+                "id": 11,
+                "odds_name": "U1.5",
+                "odds_val": 3.35
+              },
+              "12": {
+                "id": 12,
+                "odds_name": "O1.5",
+                "odds_val": 1.3
+              }
+            }
+          },
+          "4": {
+            "id": 4,
+            "type": "U/O",
+            "odds": {
+              "13": {
+                "id": 13,
+                "odds_name": "U2.5",
+                "odds_val": 1.75
+              },
+              "14": {
+                "id": 14,
+                "odds_name": "O2.5",
+                "odds_val": 2
+              }
+            }
+          },
+          "5": {
+            "id": 5,
+            "type": "U/O",
+            "odds": {
+              "15": {
+                "id": 15,
+                "odds_name": "U3.5",
+                "odds_val": 1.2
+              },
+              "16": {
+                "id": 16,
+                "odds_name": "O3.5",
+                "odds_val": 3.85
+              }
+            }
+          },
+          "6": {
+            "id": 6,
+            "type": "U/O",
+            "odds": {
+              "17": {
+                "id": 17,
+                "odds_name": "U4.5",
+                "odds_val": 1.05
+              },
+              "18": {
+                "id": 18,
+                "odds_name": "O4.5",
+                "odds_val": 7.2
+              }
+            }
+          },
+          "7": {
+            "id": 7,
+            "type": "Correct score",
+            "odds": {
+              "22": {
+                "id": 22,
+                "odds_name": "0:0",
+                "odds_val": 11
+              },
+              "26": {
+                "id": 26,
+                "odds_name": "0:1",
+                "odds_val": 9
+              },
+              "27": {
+                "id": 27,
+                "odds_name": "0:2",
+                "odds_val": 11
+              }
+            }
+          },
+          "8": {
+            "id": 8,
+            "type": "Correct score",
+            "odds": {
+              "19": {
+                "id": 19,
+                "odds_name": "1:0",
+                "odds_val": 8.5
+              },
+              "23": {
+                "id": 23,
+                "odds_name": "1:1",
+                "odds_val": 7
+              },
+              "25": {
+                "id": 25,
+                "odds_name": "1:2",
+                "odds_val": 10
+              }
+            }
+          },
+          "9": {
+            "id": 9,
+            "type": "Correct score",
+            "odds": {
+              "20": {
+                "id": 20,
+                "odds_name": "2:0",
+                "odds_val": 10
+              },
+              "21": {
+                "id": 21,
+                "odds_name": "2:1",
+                "odds_val": 8
+              },
+              "24": {
+                "id": 24,
+                "odds_name": "2:2",
+                "odds_val": 10.5
+              }
+            }
+          },
+          "10": {
+            "id": 10,
+            "type": "Correct score",
+            "odds": {
+              "28": {
+                "id": 28,
+                "odds_name": "2:0",
+                "odds_val": 4.35
+              }
+            }
+          },
+          "11": {
+            "id": 11,
+            "type": "Goal",
+            "odds": {
+              "29": {
+                "id": 29,
+                "odds_name": "Goal-Goal",
+                "odds_val": 1.95
+              },
+              "30": {
+                "id": 30,
+                "odds_name": "Goal-NoGoal",
+                "odds_val": 1.75
+              }
+            }
+          },
+          "12": {
+            "id": 12,
+            "type": "Goal HT",
+            "odds": {
+              "31": {
+                "id": 31,
+                "odds_name": "Goal-Goal",
+                "odds_val": 4.9
+              },
+              "32": {
+                "id": 32,
+                "odds_name": "Goal-NoGoal",
+                "odds_val": 1.15
+              }
+            }
+          }
+        }
+      },
+      {
+        "item_id": 1007723,
+        "item_daily_id": 235,
+        "item_status": 4,
+        "item_time": "2025-12-28T19:45:00+03:00",
+        "home": "V-Atl.Madrid",
+        "away": "V-Sevilla",
+        "item_name": "V-Atl.Madrid / V-Sevilla",
+        "item_league": "Primera",
+        "odds": {
+          "1": {
+            "id": 1,
+            "type": "1X2",
+            "odds": {
+              "1": {
+                "id": 1,
+                "odds_name": "1",
+                "odds_val": 2.25
+              },
+              "2": {
+                "id": 2,
+                "odds_name": "X",
+                "odds_val": 3
+              },
+              "3": {
+                "id": 3,
+                "odds_name": "2",
+                "odds_val": 3.05
+              },
+              "4": {
+                "id": 4,
+                "odds_name": "1X",
+                "odds_val": 1.35
+              },
+              "5": {
+                "id": 5,
+                "odds_name": "X2",
+                "odds_val": 1.55
+              }
+            }
+          },
+          "2": {
+            "id": 2,
+            "type": "1X2HT",
+            "odds": {
+              "6": {
+                "id": 6,
+                "odds_name": "1",
+                "odds_val": 3.2
+              },
+              "7": {
+                "id": 7,
+                "odds_name": "X",
+                "odds_val": 1.8
+              },
+              "8": {
+                "id": 8,
+                "odds_name": "2",
+                "odds_val": 4.1
+              },
+              "9": {
+                "id": 9,
+                "odds_name": "1X",
+                "odds_val": 1.2
+              },
+              "10": {
+                "id": 10,
+                "odds_name": "X2",
+                "odds_val": 1.3
+              }
+            }
+          },
+          "3": {
+            "id": 3,
+            "type": "U/O",
+            "odds": {
+              "11": {
+                "id": 11,
+                "odds_name": "U1.5",
+                "odds_val": 3.35
+              },
+              "12": {
+                "id": 12,
+                "odds_name": "O1.5",
+                "odds_val": 1.25
+              }
+            }
+          },
+          "4": {
+            "id": 4,
+            "type": "U/O",
+            "odds": {
+              "13": {
+                "id": 13,
+                "odds_name": "U2.5",
+                "odds_val": 1.75
+              },
+              "14": {
+                "id": 14,
+                "odds_name": "O2.5",
+                "odds_val": 1.95
+              }
+            }
+          },
+          "5": {
+            "id": 5,
+            "type": "U/O",
+            "odds": {
+              "15": {
+                "id": 15,
+                "odds_name": "U3.5",
+                "odds_val": 1.2
+              },
+              "16": {
+                "id": 16,
+                "odds_name": "O3.5",
+                "odds_val": 3.85
+              }
+            }
+          },
+          "6": {
+            "id": 6,
+            "type": "U/O",
+            "odds": {
+              "17": {
+                "id": 17,
+                "odds_name": "U4.5",
+                "odds_val": 1.05
+              },
+              "18": {
+                "id": 18,
+                "odds_name": "O4.5",
+                "odds_val": 7.1
+              }
+            }
+          },
+          "7": {
+            "id": 7,
+            "type": "Correct score",
+            "odds": {
+              "22": {
+                "id": 22,
+                "odds_name": "0:0",
+                "odds_val": 10
+              },
+              "26": {
+                "id": 26,
+                "odds_name": "0:1",
+                "odds_val": 10
+              },
+              "27": {
+                "id": 27,
+                "odds_name": "0:2",
+                "odds_val": 11
+              }
+            }
+          },
+          "8": {
+            "id": 8,
+            "type": "Correct score",
+            "odds": {
+              "19": {
+                "id": 19,
+                "odds_name": "1:0",
+                "odds_val": 8
+              },
+              "23": {
+                "id": 23,
+                "odds_name": "1:1",
+                "odds_val": 7.5
+              },
+              "25": {
+                "id": 25,
+                "odds_name": "1:2",
+                "odds_val": 11
+              }
+            }
+          },
+          "9": {
+            "id": 9,
+            "type": "Correct score",
+            "odds": {
+              "20": {
+                "id": 20,
+                "odds_name": "2:0",
+                "odds_val": 9.5
+              },
+              "21": {
+                "id": 21,
+                "odds_name": "2:1",
+                "odds_val": 7.5
+              },
+              "24": {
+                "id": 24,
+                "odds_name": "2:2",
+                "odds_val": 11.5
+              }
+            }
+          },
+          "10": {
+            "id": 10,
+            "type": "Correct score",
+            "odds": {
+              "28": {
+                "id": 28,
+                "odds_name": "2:0",
+                "odds_val": 4.2
+              }
+            }
+          },
+          "11": {
+            "id": 11,
+            "type": "Goal",
+            "odds": {
+              "29": {
+                "id": 29,
+                "odds_name": "Goal-Goal",
+                "odds_val": 1.85
+              },
+              "30": {
+                "id": 30,
+                "odds_name": "Goal-NoGoal",
+                "odds_val": 1.85
+              }
+            }
+          },
+          "12": {
+            "id": 12,
+            "type": "Goal HT",
+            "odds": {
+              "31": {
+                "id": 31,
+                "odds_name": "Goal-Goal",
+                "odds_val": 4.9
+              },
+              "32": {
+                "id": 32,
+                "odds_name": "Goal-NoGoal",
+                "odds_val": 1.15
+              }
+            }
+          }
+        }
+      },
+      {
+        "item_id": 1007724,
+        "item_daily_id": 236,
+        "item_status": 4,
+        "item_time": "2025-12-28T19:50:00+03:00",
+        "home": "V-Newcastle",
+        "away": "V-Liverpool",
+        "item_name": "V-Newcastle / V-Liverpool",
+        "item_league": "Premier",
+        "odds": {
+          "1": {
+            "id": 1,
+            "type": "1X2",
+            "odds": {
+              "1": {
+                "id": 1,
+                "odds_name": "1",
+                "odds_val": 2.75
+              },
+              "2": {
+                "id": 2,
+                "odds_name": "X",
+                "odds_val": 2.95
+              },
+              "3": {
+                "id": 3,
+                "odds_name": "2",
+                "odds_val": 2.5
+              },
+              "4": {
+                "id": 4,
+                "odds_name": "1X",
+                "odds_val": 1.5
+              },
+              "5": {
+                "id": 5,
+                "odds_name": "X2",
+                "odds_val": 1.4
+              }
+            }
+          },
+          "2": {
+            "id": 2,
+            "type": "1X2HT",
+            "odds": {
+              "6": {
+                "id": 6,
+                "odds_name": "1",
+                "odds_val": 3.85
+              },
+              "7": {
+                "id": 7,
+                "odds_name": "X",
+                "odds_val": 1.85
+              },
+              "8": {
+                "id": 8,
+                "odds_name": "2",
+                "odds_val": 3.25
+              },
+              "9": {
+                "id": 9,
+                "odds_name": "1X",
+                "odds_val": 1.3
+              },
+              "10": {
+                "id": 10,
+                "odds_name": "X2",
+                "odds_val": 1.2
+              }
+            }
+          },
+          "3": {
+            "id": 3,
+            "type": "U/O",
+            "odds": {
+              "11": {
+                "id": 11,
+                "odds_name": "U1.5",
+                "odds_val": 3.45
+              },
+              "12": {
+                "id": 12,
+                "odds_name": "O1.5",
+                "odds_val": 1.25
+              }
+            }
+          },
+          "4": {
+            "id": 4,
+            "type": "U/O",
+            "odds": {
+              "13": {
+                "id": 13,
+                "odds_name": "U2.5",
+                "odds_val": 1.8
+              },
+              "14": {
+                "id": 14,
+                "odds_name": "O2.5",
+                "odds_val": 1.9
+              }
+            }
+          },
+          "5": {
+            "id": 5,
+            "type": "U/O",
+            "odds": {
+              "15": {
+                "id": 15,
+                "odds_name": "U3.5",
+                "odds_val": 1.25
+              },
+              "16": {
+                "id": 16,
+                "odds_name": "O3.5",
+                "odds_val": 3.75
+              }
+            }
+          },
+          "6": {
+            "id": 6,
+            "type": "U/O",
+            "odds": {
+              "17": {
+                "id": 17,
+                "odds_name": "U4.5",
+                "odds_val": 1.05
+              },
+              "18": {
+                "id": 18,
+                "odds_name": "O4.5",
+                "odds_val": 7
+              }
+            }
+          },
+          "7": {
+            "id": 7,
+            "type": "Correct score",
+            "odds": {
+              "22": {
+                "id": 22,
+                "odds_name": "0:0",
+                "odds_val": 10
+              },
+              "26": {
+                "id": 26,
+                "odds_name": "0:1",
+                "odds_val": 8
+              },
+              "27": {
+                "id": 27,
+                "odds_name": "0:2",
+                "odds_val": 10
+              }
+            }
+          },
+          "8": {
+            "id": 8,
+            "type": "Correct score",
+            "odds": {
+              "19": {
+                "id": 19,
+                "odds_name": "1:0",
+                "odds_val": 9
+              },
+              "23": {
+                "id": 23,
+                "odds_name": "1:1",
+                "odds_val": 7
+              },
+              "25": {
+                "id": 25,
+                "odds_name": "1:2",
+                "odds_val": 9
+              }
+            }
+          },
+          "9": {
+            "id": 9,
+            "type": "Correct score",
+            "odds": {
+              "20": {
+                "id": 20,
+                "odds_name": "2:0",
+                "odds_val": 11
+              },
+              "21": {
+                "id": 21,
+                "odds_name": "2:1",
+                "odds_val": 9
+              },
+              "24": {
+                "id": 24,
+                "odds_name": "2:2",
+                "odds_val": 10
+              }
+            }
+          },
+          "10": {
+            "id": 10,
+            "type": "Correct score",
+            "odds": {
+              "28": {
+                "id": 28,
+                "odds_name": "2:0",
+                "odds_val": 4.1
+              }
+            }
+          },
+          "11": {
+            "id": 11,
+            "type": "Goal",
+            "odds": {
+              "29": {
+                "id": 29,
+                "odds_name": "Goal-Goal",
+                "odds_val": 1.85
+              },
+              "30": {
+                "id": 30,
+                "odds_name": "Goal-NoGoal",
+                "odds_val": 1.85
+              }
+            }
+          },
+          "12": {
+            "id": 12,
+            "type": "Goal HT",
+            "odds": {
+              "31": {
+                "id": 31,
+                "odds_name": "Goal-Goal",
+                "odds_val": 4.95
+              },
+              "32": {
+                "id": 32,
+                "odds_name": "Goal-NoGoal",
+                "odds_val": 1.15
+              }
+            }
+          }
+        }
+      }
+    ],
+    "results": [
+      {
+        "id": 1007720,
+        "daily_id": 232,
+        "status": 5,
+        "event_time": "2025-12-28T19:30:00+03:00",
+        "home": "V-Napoli",
+        "away": "V-Lazio",
+        "league": "Serie A",
+        "result_ft": {
+          "home": 1,
+          "away": 0
+        },
+        "result_ht": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      {
+        "id": 1007719,
+        "daily_id": 231,
+        "status": 5,
+        "event_time": "2025-12-28T19:25:00+03:00",
+        "home": "V-Leverkusen",
+        "away": "V-B.Munich",
+        "league": "Bundesliga",
+        "result_ft": {
+          "home": 0,
+          "away": 0
+        },
+        "result_ht": {
+          "home": 0,
+          "away": 0
+        }
+      },
+      {
+        "id": 1007718,
+        "daily_id": 230,
+        "status": 5,
+        "event_time": "2025-12-28T19:20:00+03:00",
+        "home": "V-Chelsea",
+        "away": "V-Man.City",
+        "league": "Premier",
+        "result_ft": {
+          "home": 1,
+          "away": 1
+        },
+        "result_ht": {
+          "home": 1,
+          "away": 0
+        }
+      }
+    ]
+  }

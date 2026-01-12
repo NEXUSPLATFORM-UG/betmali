@@ -1,0 +1,866 @@
+{
+  "data": [
+    {
+      "home_team": "Switzerland",
+      "game_id": "00438",
+      "match_id": "2744656",
+      "away_team": "Belgium",
+      "start_time": "2026-01-09 23:00:00",
+      "competition_name": "United Cup",
+      "category": "United Cup",
+      "parent_match_id": "67571552",
+      "side_bets": "1",
+      "home_odd": "2.09",
+      "neutral_odd": null,
+      "away_odd": "1.72",
+      "competition_id": "8166",
+      "sport_id": "1",
+      "sport_name": "Tennis",
+      "is_esport": false,
+      "is_srl": false,
+      "odds": [
+        {
+          "sub_type_id": "186",
+          "name": "WINNER",
+          "odds": [
+            {
+              "display": "1",
+              "odd_key": "Switzerland",
+              "odd_def": "{$competitor1}",
+              "odd_value": "2.09",
+              "special_bet_value": "",
+              "outcome_id": "4",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "2",
+              "odd_key": "Belgium",
+              "odd_def": "{$competitor2}",
+              "odd_value": "1.72",
+              "special_bet_value": "",
+              "outcome_id": "5",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "home_team": "Hignett, Liam",
+      "game_id": "14505",
+      "match_id": "2746218",
+      "away_team": "Hudson, Ben",
+      "start_time": "2026-01-09 14:50:00",
+      "competition_name": "UTR PTT Stirling Men 01",
+      "category": "UTR Men",
+      "parent_match_id": "67574096",
+      "side_bets": "2",
+      "home_odd": "1.42",
+      "neutral_odd": null,
+      "away_odd": "2.55",
+      "competition_id": "11835",
+      "sport_id": "1",
+      "sport_name": "Tennis",
+      "is_esport": false,
+      "is_srl": false,
+      "odds": [
+        {
+          "sub_type_id": "186",
+          "name": "WINNER",
+          "odds": [
+            {
+              "display": "1",
+              "odd_key": "Hignett, Liam",
+              "odd_def": "{$competitor1}",
+              "odd_value": "1.42",
+              "special_bet_value": "",
+              "outcome_id": "4",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "2",
+              "odd_key": "Hudson, Ben",
+              "odd_def": "{$competitor2}",
+              "odd_value": "2.55",
+              "special_bet_value": "",
+              "outcome_id": "5",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "home_team": "Rosenzweig, Nicolas",
+      "game_id": "31896",
+      "match_id": "2746219",
+      "away_team": "Leeman, Dylan",
+      "start_time": "2026-01-09 15:25:00",
+      "competition_name": "UTR PTT Stirling Men 01",
+      "category": "UTR Men",
+      "parent_match_id": "67574094",
+      "side_bets": "2",
+      "home_odd": "1.82",
+      "neutral_odd": null,
+      "away_odd": "1.81",
+      "competition_id": "11835",
+      "sport_id": "1",
+      "sport_name": "Tennis",
+      "is_esport": false,
+      "is_srl": false,
+      "odds": null
+    },
+    {
+      "home_team": "Rojas, Sofia Camila",
+      "game_id": "61156",
+      "match_id": "2746416",
+      "away_team": "Mulberry, Hayden",
+      "start_time": "2026-01-09 16:30:00",
+      "competition_name": "UTR PTT Athens Women 01",
+      "category": "UTR Women",
+      "parent_match_id": "67362256",
+      "side_bets": "2",
+      "home_odd": "1.27",
+      "neutral_odd": null,
+      "away_odd": "3.20",
+      "competition_id": "10130",
+      "sport_id": "1",
+      "sport_name": "Tennis",
+      "is_esport": false,
+      "is_srl": false,
+      "odds": [
+        {
+          "sub_type_id": "186",
+          "name": "WINNER",
+          "odds": [
+            {
+              "display": "1",
+              "odd_key": "Rojas, Sofia Camila",
+              "odd_def": "{$competitor1}",
+              "odd_value": "1.27",
+              "special_bet_value": "",
+              "outcome_id": "4",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "2",
+              "odd_key": "Mulberry, Hayden",
+              "odd_def": "{$competitor2}",
+              "odd_value": "3.20",
+              "special_bet_value": "",
+              "outcome_id": "5",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "home_team": "Shokry, Elias",
+      "game_id": "22578",
+      "match_id": "2746421",
+      "away_team": "Johnston, Noah",
+      "start_time": "2026-01-09 16:30:00",
+      "competition_name": "UTR PTT Athens Men 01",
+      "category": "UTR Men",
+      "parent_match_id": "67546246",
+      "side_bets": "2",
+      "home_odd": "3.20",
+      "neutral_odd": null,
+      "away_odd": "1.27",
+      "competition_id": "10129",
+      "sport_id": "1",
+      "sport_name": "Tennis",
+      "is_esport": false,
+      "is_srl": false,
+      "odds": [
+        {
+          "sub_type_id": "186",
+          "name": "WINNER",
+          "odds": [
+            {
+              "display": "1",
+              "odd_key": "Shokry, Elias",
+              "odd_def": "{$competitor1}",
+              "odd_value": "3.20",
+              "special_bet_value": "",
+              "outcome_id": "4",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "2",
+              "odd_key": "Johnston, Noah",
+              "odd_def": "{$competitor2}",
+              "odd_value": "1.27",
+              "special_bet_value": "",
+              "outcome_id": "5",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "home_team": "van Zyl, Marilouise",
+      "game_id": "83953",
+      "match_id": "2746449",
+      "away_team": "Coleman, Elizabeth",
+      "start_time": "2026-01-09 17:00:00",
+      "competition_name": "UTR PTT South Bend Women 01",
+      "category": "UTR Women",
+      "parent_match_id": "67362786",
+      "side_bets": "2",
+      "home_odd": "4.10",
+      "neutral_odd": null,
+      "away_odd": "1.17",
+      "competition_id": "11847",
+      "sport_id": "1",
+      "sport_name": "Tennis",
+      "is_esport": false,
+      "is_srl": false,
+      "odds": [
+        {
+          "sub_type_id": "186",
+          "name": "WINNER",
+          "odds": [
+            {
+              "display": "1",
+              "odd_key": "van Zyl, Marilouise",
+              "odd_def": "{$competitor1}",
+              "odd_value": "4.10",
+              "special_bet_value": "",
+              "outcome_id": "4",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "2",
+              "odd_key": "Coleman, Elizabeth",
+              "odd_def": "{$competitor2}",
+              "odd_value": "1.17",
+              "special_bet_value": "",
+              "outcome_id": "5",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "home_team": "Dorner, Olivia",
+      "game_id": "64079",
+      "match_id": "2746451",
+      "away_team": "Kovalcik, Jessica",
+      "start_time": "2026-01-09 17:00:00",
+      "competition_name": "UTR PTT South Bend Women 01",
+      "category": "UTR Women",
+      "parent_match_id": "67362810",
+      "side_bets": "2",
+      "home_odd": "1.82",
+      "neutral_odd": null,
+      "away_odd": "1.82",
+      "competition_id": "11847",
+      "sport_id": "1",
+      "sport_name": "Tennis",
+      "is_esport": false,
+      "is_srl": false,
+      "odds": [
+        {
+          "sub_type_id": "186",
+          "name": "WINNER",
+          "odds": [
+            {
+              "display": "1",
+              "odd_key": "Dorner, Olivia",
+              "odd_def": "{$competitor1}",
+              "odd_value": "1.82",
+              "special_bet_value": "",
+              "outcome_id": "4",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "2",
+              "odd_key": "Kovalcik, Jessica",
+              "odd_def": "{$competitor2}",
+              "odd_value": "1.82",
+              "special_bet_value": "",
+              "outcome_id": "5",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "home_team": "Llorens Saracho, Luis",
+      "game_id": "74997",
+      "match_id": "2746476",
+      "away_team": "Antonopoulos, Alexander",
+      "start_time": "2026-01-09 17:00:00",
+      "competition_name": "UTR PTT South Bend Men 01",
+      "category": "UTR Men",
+      "parent_match_id": "67362452",
+      "side_bets": "2",
+      "home_odd": "1.39",
+      "neutral_odd": null,
+      "away_odd": "2.65",
+      "competition_id": "11844",
+      "sport_id": "1",
+      "sport_name": "Tennis",
+      "is_esport": false,
+      "is_srl": false,
+      "odds": [
+        {
+          "sub_type_id": "186",
+          "name": "WINNER",
+          "odds": [
+            {
+              "display": "1",
+              "odd_key": "Llorens Saracho, Luis",
+              "odd_def": "{$competitor1}",
+              "odd_value": "1.39",
+              "special_bet_value": "",
+              "outcome_id": "4",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "2",
+              "odd_key": "Antonopoulos, Alexander",
+              "odd_def": "{$competitor2}",
+              "odd_value": "2.65",
+              "special_bet_value": "",
+              "outcome_id": "5",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "home_team": "Hatton, Peter",
+      "game_id": "86999",
+      "match_id": "2746509",
+      "away_team": "Johnson, Cooper",
+      "start_time": "2026-01-09 17:40:00",
+      "competition_name": "UTR PTT Athens Men 01",
+      "category": "UTR Men",
+      "parent_match_id": "67546258",
+      "side_bets": "2",
+      "home_odd": "1.55",
+      "neutral_odd": null,
+      "away_odd": "2.20",
+      "competition_id": "10129",
+      "sport_id": "1",
+      "sport_name": "Tennis",
+      "is_esport": false,
+      "is_srl": false,
+      "odds": [
+        {
+          "sub_type_id": "186",
+          "name": "WINNER",
+          "odds": [
+            {
+              "display": "1",
+              "odd_key": "Hatton, Peter",
+              "odd_def": "{$competitor1}",
+              "odd_value": "1.55",
+              "special_bet_value": "",
+              "outcome_id": "4",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "2",
+              "odd_key": "Johnson, Cooper",
+              "odd_def": "{$competitor2}",
+              "odd_value": "2.20",
+              "special_bet_value": "",
+              "outcome_id": "5",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "home_team": "Giamichelle, Santiago",
+      "game_id": "03713",
+      "match_id": "2746510",
+      "away_team": "Chung, Justin",
+      "start_time": "2026-01-09 17:40:00",
+      "competition_name": "UTR PTT Athens Men 01",
+      "category": "UTR Men",
+      "parent_match_id": "67546252",
+      "side_bets": "2",
+      "home_odd": "1.31",
+      "neutral_odd": null,
+      "away_odd": "3.00",
+      "competition_id": "10129",
+      "sport_id": "1",
+      "sport_name": "Tennis",
+      "is_esport": false,
+      "is_srl": false,
+      "odds": [
+        {
+          "sub_type_id": "186",
+          "name": "WINNER",
+          "odds": [
+            {
+              "display": "1",
+              "odd_key": "Giamichelle, Santiago",
+              "odd_def": "{$competitor1}",
+              "odd_value": "1.31",
+              "special_bet_value": "",
+              "outcome_id": "4",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "2",
+              "odd_key": "Chung, Justin",
+              "odd_def": "{$competitor2}",
+              "odd_value": "3.00",
+              "special_bet_value": "",
+              "outcome_id": "5",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "total": "68",
+    "tags": [
+      {
+        "tag_id": -1,
+        "tag_title": "Top Countries & Leagues",
+        "tag_group_id": -1,
+        "tag_group_type_reference": "",
+        "tag_group_type_id": -1,
+        "tag_group_type": "",
+        "country": null,
+        "status": 1
+      }
+    ],
+    "limit": 10,
+    "current_page": 1,
+    "filters": [
+      {
+        "name": "1x2 / Winner",
+        "sub_type_id": "1",
+        "sport_ids": [
+          "3",
+          "1",
+          "2523561",
+          "2523554",
+          "2",
+          "2523569",
+          "2523563",
+          "2523560",
+          "2523562",
+          "2523564",
+          "2523570"
+        ],
+        "odd_keys": [
+          "1",
+          "X",
+          "2"
+        ]
+      },
+      {
+        "name": "1st Set Winner",
+        "sub_type_id": "202",
+        "sport_ids": [
+          "1"
+        ],
+        "odd_keys": [
+          "1",
+          "2"
+        ]
+      }
+    ],
+    "sports": [
+      {
+        "sport_id": -1,
+        "sport_name": "All Sports"
+      },
+      {
+        "sport_id": "1",
+        "sport_name": "Tennis"
+      },
+      {
+        "sport_id": "3",
+        "sport_name": "Soccer"
+      },
+      {
+        "sport_id": "4",
+        "sport_name": "Table Tennis"
+      },
+      {
+        "sport_id": "5",
+        "sport_name": "Darts"
+      },
+      {
+        "sport_id": "6",
+        "sport_name": "Basketball"
+      },
+      {
+        "sport_id": "10",
+        "sport_name": "Handball"
+      },
+      {
+        "sport_id": "11",
+        "sport_name": "Boxing"
+      },
+      {
+        "sport_id": "12",
+        "sport_name": "eSoccer"
+      },
+      {
+        "sport_id": "13",
+        "sport_name": "Rugby"
+      },
+      {
+        "sport_id": "14",
+        "sport_name": "Ice Hockey"
+      },
+      {
+        "sport_id": "16",
+        "sport_name": "Volleyball"
+      },
+      {
+        "sport_id": "17",
+        "sport_name": "Snooker"
+      },
+      {
+        "sport_id": "18",
+        "sport_name": "Bowls"
+      },
+      {
+        "sport_id": "19",
+        "sport_name": "Field hockey"
+      },
+      {
+        "sport_id": "21",
+        "sport_name": "Cricket"
+      },
+      {
+        "sport_id": "23",
+        "sport_name": "Futsal"
+      },
+      {
+        "sport_id": "25",
+        "sport_name": "American Football"
+      },
+      {
+        "sport_id": "26",
+        "sport_name": "Bandy"
+      },
+      {
+        "sport_id": "27",
+        "sport_name": "Waterpolo"
+      },
+      {
+        "sport_id": "31",
+        "sport_name": "ESport League of Legends"
+      },
+      {
+        "sport_id": "32",
+        "sport_name": "ESport Counter-Strike"
+      },
+      {
+        "sport_id": "37",
+        "sport_name": "Floorball"
+      },
+      {
+        "sport_id": "38",
+        "sport_name": "ESport Dota"
+      },
+      {
+        "sport_id": "39",
+        "sport_name": "ESport Call of Duty"
+      }
+    ],
+    "tabs": [
+      {
+        "id": -1,
+        "date": "2026-01-09",
+        "name": "Today's Highlights",
+        "period_start": "2026-01-09 04:00:00",
+        "period_end": "2026-01-10 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": -2,
+        "date": "2026-01-09",
+        "name": "🔥 Next 48hrs",
+        "period_start": "2026-01-09 04:00:00",
+        "period_end": "2026-03-10 04:01:00",
+        "prioritized": false
+      },
+      {
+        "id": 1,
+        "date": "2026-01-10",
+        "name": "Tomorrow",
+        "period_start": "2026-01-10 04:00:00",
+        "period_end": "2026-01-11 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 2,
+        "date": "2026-01-11",
+        "name": "Sunday",
+        "period_start": "2026-01-11 04:00:00",
+        "period_end": "2026-01-12 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 3,
+        "date": "2026-01-12",
+        "name": "Monday",
+        "period_start": "2026-01-12 04:00:00",
+        "period_end": "2026-01-13 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 4,
+        "date": "2026-01-13",
+        "name": "Tuesday",
+        "period_start": "2026-01-13 04:00:00",
+        "period_end": "2026-01-14 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 5,
+        "date": "2026-01-14",
+        "name": "Wednesday",
+        "period_start": "2026-01-14 04:00:00",
+        "period_end": "2026-01-15 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 6,
+        "date": "2026-01-15",
+        "name": "Thursday",
+        "period_start": "2026-01-15 04:00:00",
+        "period_end": "2026-01-16 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 7,
+        "date": "2026-01-16",
+        "name": "Friday",
+        "period_start": "2026-01-16 04:00:00",
+        "period_end": "2026-01-17 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 8,
+        "date": "2026-01-17",
+        "name": "Next Week",
+        "period_start": "2026-01-17 04:00:00",
+        "period_end": "2026-03-10 04:01:00",
+        "prioritized": false
+      }
+    ],
+    "periods": [
+      {
+        "id": -1,
+        "date": "2026-01-09",
+        "name": "Today's Highlights",
+        "period_start": "2026-01-09 04:00:00",
+        "period_end": "2026-01-10 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": -2,
+        "date": "2026-01-09",
+        "name": "🔥 Next 48hrs",
+        "period_start": "2026-01-09 04:00:00",
+        "period_end": "2026-01-11 04:01:00",
+        "prioritized": false
+      },
+      {
+        "id": 1,
+        "date": "2026-01-10",
+        "name": "Tomorrow",
+        "period_start": "2026-01-10 04:00:00",
+        "period_end": "2026-01-11 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 2,
+        "date": "2026-01-11",
+        "name": "Sunday",
+        "period_start": "2026-01-11 04:00:00",
+        "period_end": "2026-01-12 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 3,
+        "date": "2026-01-12",
+        "name": "Monday",
+        "period_start": "2026-01-12 04:00:00",
+        "period_end": "2026-01-13 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 4,
+        "date": "2026-01-13",
+        "name": "Tuesday",
+        "period_start": "2026-01-13 04:00:00",
+        "period_end": "2026-01-14 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 5,
+        "date": "2026-01-14",
+        "name": "Wednesday",
+        "period_start": "2026-01-14 04:00:00",
+        "period_end": "2026-01-15 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 6,
+        "date": "2026-01-15",
+        "name": "Thursday",
+        "period_start": "2026-01-15 04:00:00",
+        "period_end": "2026-01-16 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 7,
+        "date": "2026-01-16",
+        "name": "Friday",
+        "period_start": "2026-01-16 04:00:00",
+        "period_end": "2026-01-17 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 8,
+        "date": "2026-01-17",
+        "name": "Next Week",
+        "period_start": "2026-01-17 04:00:00",
+        "period_end": "2026-05-09 04:01:00",
+        "prioritized": false
+      },
+      {
+        "id": 9,
+        "date": "2026-01-09",
+        "name": "All",
+        "period_start": "2026-01-09 04:00:00",
+        "period_end": "2026-05-09 04:01:00",
+        "prioritized": false
+      }
+    ],
+    "sort_options": [
+      {
+        "id": 1,
+        "name": "Highlights"
+      },
+      {
+        "id": 2,
+        "name": "Start time"
+      },
+      {
+        "id": 3,
+        "name": "Top leagues"
+      }
+    ],
+    "current_tab": [
+      {
+        "id": -2,
+        "date": "2026-01-09",
+        "name": "🔥 Next 48hrs",
+        "period_start": "2026-01-09 04:00:00",
+        "period_end": "2026-03-10 04:01:00",
+        "prioritized": false
+      }
+    ],
+    "is_boosted": false,
+    "is_esports": false,
+    "is_srl": false
+  },
+  "time_elapsed_secs": 0.0155391693115234
+}
+Chat
+
+New Conversation
+
+🤓 Explain a complex thing
+
+Explain Artificial Intelligence so that I can explain it to my six-year-old child.
+
+
+🧠 Get suggestions and create new ideas
+
+Please give me the best 10 travel ideas around the world
+
+
+💭 Translate, summarize, fix grammar and more…
+
+Translate "I love you" French
+
+
+
+AITOPIA
+Hello, how can I help you today?
+
+
+AITOPIA
+coin image
+10
+Upgrade
+
+
+
+
+Ask me anything...
+
+
+
+Make a Review & Earn Credit ❤
+Chat
+Ask
+Search
+Write
+Image
+ChatFile
+Vision
+Agent
+Full Page
+Invite & Earn

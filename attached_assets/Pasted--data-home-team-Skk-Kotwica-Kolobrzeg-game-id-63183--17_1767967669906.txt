@@ -1,0 +1,971 @@
+{
+  "data": [
+    {
+      "home_team": "Skk Kotwica Kolobrzeg",
+      "game_id": "63183",
+      "match_id": "2742564",
+      "away_team": "Wkk Wroclaw",
+      "start_time": "2026-01-09 18:00:00",
+      "competition_name": "1. Liga",
+      "category": "Poland",
+      "parent_match_id": "62945903",
+      "side_bets": "5",
+      "home_odd": "1.22",
+      "neutral_odd": "19.00",
+      "away_odd": "4.60",
+      "competition_id": "60",
+      "sport_id": "6",
+      "sport_name": "Basketball",
+      "is_esport": false,
+      "is_srl": false,
+      "odds": [
+        {
+          "sub_type_id": "1",
+          "name": "1X2",
+          "odds": [
+            {
+              "display": "1",
+              "odd_key": "Skk Kotwica Kolobrzeg",
+              "odd_def": "{$competitor1}",
+              "odd_value": "1.22",
+              "special_bet_value": "",
+              "outcome_id": "1",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "X",
+              "odd_key": "draw",
+              "odd_def": "draw",
+              "odd_value": "19.00",
+              "special_bet_value": "",
+              "outcome_id": "2",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "2",
+              "odd_key": "Wkk Wroclaw",
+              "odd_def": "{$competitor2}",
+              "odd_value": "4.60",
+              "special_bet_value": "",
+              "outcome_id": "3",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "home_team": "Resovia Rzeszow",
+      "game_id": "79720",
+      "match_id": "2742466",
+      "away_team": "SKS Starogard Gdanski",
+      "start_time": "2026-01-09 17:00:00",
+      "competition_name": "1. Liga",
+      "category": "Poland",
+      "parent_match_id": "62945891",
+      "side_bets": "5",
+      "home_odd": "2.90",
+      "neutral_odd": "13.00",
+      "away_odd": "1.49",
+      "competition_id": "60",
+      "sport_id": "6",
+      "sport_name": "Basketball",
+      "is_esport": false,
+      "is_srl": false,
+      "odds": [
+        {
+          "sub_type_id": "1",
+          "name": "1X2",
+          "odds": [
+            {
+              "display": "1",
+              "odd_key": "Resovia Rzeszow",
+              "odd_def": "{$competitor1}",
+              "odd_value": "2.90",
+              "special_bet_value": "",
+              "outcome_id": "1",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "X",
+              "odd_key": "draw",
+              "odd_def": "draw",
+              "odd_value": "13.00",
+              "special_bet_value": "",
+              "outcome_id": "2",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "2",
+              "odd_key": "SKS Starogard Gdanski",
+              "odd_def": "{$competitor2}",
+              "odd_value": "1.49",
+              "special_bet_value": "",
+              "outcome_id": "3",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "home_team": "BC Zalgiris Kaunas",
+      "game_id": "36670",
+      "match_id": "2737234",
+      "away_team": "KK Crvena zvezda Belgrade",
+      "start_time": "2026-01-09 18:00:00",
+      "competition_name": "Euroleague",
+      "category": "International",
+      "parent_match_id": "62096006",
+      "side_bets": "30",
+      "home_odd": "1.67",
+      "neutral_odd": "14.00",
+      "away_odd": "2.55",
+      "competition_id": "327",
+      "sport_id": "6",
+      "sport_name": "Basketball",
+      "is_esport": false,
+      "is_srl": false,
+      "odds": [
+        {
+          "sub_type_id": "1",
+          "name": "1X2",
+          "odds": [
+            {
+              "display": "1",
+              "odd_key": "BC Zalgiris Kaunas",
+              "odd_def": "{$competitor1}",
+              "odd_value": "1.67",
+              "special_bet_value": "",
+              "outcome_id": "1",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "X",
+              "odd_key": "draw",
+              "odd_def": "draw",
+              "odd_value": "14.00",
+              "special_bet_value": "",
+              "outcome_id": "2",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "2",
+              "odd_key": "KK Crvena zvezda Belgrade",
+              "odd_def": "{$competitor2}",
+              "odd_value": "2.55",
+              "special_bet_value": "",
+              "outcome_id": "3",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "home_team": "BC Olympiakos Piraeus",
+      "game_id": "01976",
+      "match_id": "2737237",
+      "away_team": "Bayern Munich",
+      "start_time": "2026-01-09 19:15:00",
+      "competition_name": "Euroleague",
+      "category": "International",
+      "parent_match_id": "62096008",
+      "side_bets": "30",
+      "home_odd": "1.16",
+      "neutral_odd": "24.00",
+      "away_odd": "6.40",
+      "competition_id": "327",
+      "sport_id": "6",
+      "sport_name": "Basketball",
+      "is_esport": false,
+      "is_srl": false,
+      "odds": [
+        {
+          "sub_type_id": "1",
+          "name": "1X2",
+          "odds": [
+            {
+              "display": "1",
+              "odd_key": "BC Olympiakos Piraeus",
+              "odd_def": "{$competitor1}",
+              "odd_value": "1.16",
+              "special_bet_value": "",
+              "outcome_id": "1",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "X",
+              "odd_key": "draw",
+              "odd_def": "draw",
+              "odd_value": "24.00",
+              "special_bet_value": "",
+              "outcome_id": "2",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "2",
+              "odd_key": "Bayern Munich",
+              "odd_def": "{$competitor2}",
+              "odd_value": "6.40",
+              "special_bet_value": "",
+              "outcome_id": "3",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "home_team": "Baskonia Vitoria-Gasteiz",
+      "game_id": "51669",
+      "match_id": "2737235",
+      "away_team": "ASVEL Lyon-Villeurbanne",
+      "start_time": "2026-01-09 19:30:00",
+      "competition_name": "Euroleague",
+      "category": "International",
+      "parent_match_id": "62096010",
+      "side_bets": "30",
+      "home_odd": "1.41",
+      "neutral_odd": "17.00",
+      "away_odd": "3.45",
+      "competition_id": "327",
+      "sport_id": "6",
+      "sport_name": "Basketball",
+      "is_esport": false,
+      "is_srl": false,
+      "odds": [
+        {
+          "sub_type_id": "1",
+          "name": "1X2",
+          "odds": [
+            {
+              "display": "1",
+              "odd_key": "Baskonia Vitoria-Gasteiz",
+              "odd_def": "{$competitor1}",
+              "odd_value": "1.41",
+              "special_bet_value": "",
+              "outcome_id": "1",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "X",
+              "odd_key": "draw",
+              "odd_def": "draw",
+              "odd_value": "17.00",
+              "special_bet_value": "",
+              "outcome_id": "2",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "2",
+              "odd_key": "ASVEL Lyon-Villeurbanne",
+              "odd_def": "{$competitor2}",
+              "odd_value": "3.45",
+              "special_bet_value": "",
+              "outcome_id": "3",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "home_team": "FC Barcelona",
+      "game_id": "92129",
+      "match_id": "2737240",
+      "away_team": "KK Partizan Belgrade",
+      "start_time": "2026-01-09 19:30:00",
+      "competition_name": "Euroleague",
+      "category": "International",
+      "parent_match_id": "62096014",
+      "side_bets": "30",
+      "home_odd": "1.19",
+      "neutral_odd": "22.00",
+      "away_odd": "5.80",
+      "competition_id": "327",
+      "sport_id": "6",
+      "sport_name": "Basketball",
+      "is_esport": false,
+      "is_srl": false,
+      "odds": [
+        {
+          "sub_type_id": "1",
+          "name": "1X2",
+          "odds": [
+            {
+              "display": "1",
+              "odd_key": "FC Barcelona",
+              "odd_def": "{$competitor1}",
+              "odd_value": "1.19",
+              "special_bet_value": "",
+              "outcome_id": "1",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "X",
+              "odd_key": "draw",
+              "odd_def": "draw",
+              "odd_value": "22.00",
+              "special_bet_value": "",
+              "outcome_id": "2",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "2",
+              "odd_key": "KK Partizan Belgrade",
+              "odd_def": "{$competitor2}",
+              "odd_value": "5.80",
+              "special_bet_value": "",
+              "outcome_id": "3",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "home_team": "Olimpia Milano",
+      "game_id": "16170",
+      "match_id": "2737244",
+      "away_team": "Anadolu Efes SK",
+      "start_time": "2026-01-09 19:30:00",
+      "competition_name": "Euroleague",
+      "category": "International",
+      "parent_match_id": "62096012",
+      "side_bets": "30",
+      "home_odd": "1.44",
+      "neutral_odd": "16.00",
+      "away_odd": "3.30",
+      "competition_id": "327",
+      "sport_id": "6",
+      "sport_name": "Basketball",
+      "is_esport": false,
+      "is_srl": false,
+      "odds": [
+        {
+          "sub_type_id": "1",
+          "name": "1X2",
+          "odds": [
+            {
+              "display": "1",
+              "odd_key": "Olimpia Milano",
+              "odd_def": "{$competitor1}",
+              "odd_value": "1.44",
+              "special_bet_value": "",
+              "outcome_id": "1",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "X",
+              "odd_key": "draw",
+              "odd_def": "draw",
+              "odd_value": "16.00",
+              "special_bet_value": "",
+              "outcome_id": "2",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "2",
+              "odd_key": "Anadolu Efes SK",
+              "odd_def": "{$competitor2}",
+              "odd_value": "3.30",
+              "special_bet_value": "",
+              "outcome_id": "3",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "home_team": "Manchester Basketball",
+      "game_id": "89858",
+      "match_id": "2740068",
+      "away_team": "Sheffield Sharks",
+      "start_time": "2026-01-09 19:30:00",
+      "competition_name": "SLB",
+      "category": "England",
+      "parent_match_id": "63194865",
+      "side_bets": "15",
+      "home_odd": "2.08",
+      "neutral_odd": "13.00",
+      "away_odd": "1.86",
+      "competition_id": "7528",
+      "sport_id": "6",
+      "sport_name": "Basketball",
+      "is_esport": false,
+      "is_srl": false,
+      "odds": [
+        {
+          "sub_type_id": "1",
+          "name": "1X2",
+          "odds": [
+            {
+              "display": "1",
+              "odd_key": "Manchester Basketball",
+              "odd_def": "{$competitor1}",
+              "odd_value": "2.08",
+              "special_bet_value": "",
+              "outcome_id": "1",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "X",
+              "odd_key": "draw",
+              "odd_def": "draw",
+              "odd_value": "13.00",
+              "special_bet_value": "",
+              "outcome_id": "2",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "2",
+              "odd_key": "Sheffield Sharks",
+              "odd_def": "{$competitor2}",
+              "odd_value": "1.86",
+              "special_bet_value": "",
+              "outcome_id": "3",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "home_team": "BC Mahdia",
+      "game_id": "46721",
+      "match_id": "2747644",
+      "away_team": "US Ansar",
+      "start_time": "2026-01-09 16:00:00",
+      "competition_name": "National A League",
+      "category": "Tunisia",
+      "parent_match_id": "67243238",
+      "side_bets": "5",
+      "home_odd": "3.05",
+      "neutral_odd": "16.00",
+      "away_odd": "1.43",
+      "competition_id": "1206",
+      "sport_id": "6",
+      "sport_name": "Basketball",
+      "is_esport": false,
+      "is_srl": false,
+      "odds": [
+        {
+          "sub_type_id": "1",
+          "name": "1X2",
+          "odds": [
+            {
+              "display": "1",
+              "odd_key": "BC Mahdia",
+              "odd_def": "{$competitor1}",
+              "odd_value": "3.00",
+              "special_bet_value": "",
+              "outcome_id": "1",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "X",
+              "odd_key": "draw",
+              "odd_def": "draw",
+              "odd_value": "17.00",
+              "special_bet_value": "",
+              "outcome_id": "2",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "2",
+              "odd_key": "US Ansar",
+              "odd_def": "{$competitor2}",
+              "odd_value": "1.43",
+              "special_bet_value": "",
+              "outcome_id": "3",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "home_team": "Newcastle Eagles",
+      "game_id": "62578",
+      "match_id": "2740071",
+      "away_team": "London Lions",
+      "start_time": "2026-01-09 19:30:00",
+      "competition_name": "SLB",
+      "category": "England",
+      "parent_match_id": "63194867",
+      "side_bets": "15",
+      "home_odd": "2.70",
+      "neutral_odd": "14.00",
+      "away_odd": "1.53",
+      "competition_id": "7528",
+      "sport_id": "6",
+      "sport_name": "Basketball",
+      "is_esport": false,
+      "is_srl": false,
+      "odds": [
+        {
+          "sub_type_id": "1",
+          "name": "1X2",
+          "odds": [
+            {
+              "display": "1",
+              "odd_key": "Newcastle Eagles",
+              "odd_def": "{$competitor1}",
+              "odd_value": "2.70",
+              "special_bet_value": "",
+              "outcome_id": "1",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "X",
+              "odd_key": "draw",
+              "odd_def": "draw",
+              "odd_value": "14.00",
+              "special_bet_value": "",
+              "outcome_id": "2",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "2",
+              "odd_key": "London Lions",
+              "odd_def": "{$competitor2}",
+              "odd_value": "1.53",
+              "special_bet_value": "",
+              "outcome_id": "3",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "total": "111",
+    "tags": [
+      {
+        "tag_id": -1,
+        "tag_title": "Top Countries & Leagues",
+        "tag_group_id": -1,
+        "tag_group_type_reference": "",
+        "tag_group_type_id": -1,
+        "tag_group_type": "",
+        "country": null,
+        "status": 1
+      }
+    ],
+    "limit": 10,
+    "current_page": 1,
+    "filters": [],
+    "sports": [
+      {
+        "sport_id": -1,
+        "sport_name": "All Sports"
+      },
+      {
+        "sport_id": "1",
+        "sport_name": "Tennis"
+      },
+      {
+        "sport_id": "3",
+        "sport_name": "Soccer"
+      },
+      {
+        "sport_id": "4",
+        "sport_name": "Table Tennis"
+      },
+      {
+        "sport_id": "5",
+        "sport_name": "Darts"
+      },
+      {
+        "sport_id": "6",
+        "sport_name": "Basketball"
+      },
+      {
+        "sport_id": "10",
+        "sport_name": "Handball"
+      },
+      {
+        "sport_id": "11",
+        "sport_name": "Boxing"
+      },
+      {
+        "sport_id": "12",
+        "sport_name": "eSoccer"
+      },
+      {
+        "sport_id": "13",
+        "sport_name": "Rugby"
+      },
+      {
+        "sport_id": "14",
+        "sport_name": "Ice Hockey"
+      },
+      {
+        "sport_id": "16",
+        "sport_name": "Volleyball"
+      },
+      {
+        "sport_id": "17",
+        "sport_name": "Snooker"
+      },
+      {
+        "sport_id": "18",
+        "sport_name": "Bowls"
+      },
+      {
+        "sport_id": "19",
+        "sport_name": "Field hockey"
+      },
+      {
+        "sport_id": "21",
+        "sport_name": "Cricket"
+      },
+      {
+        "sport_id": "23",
+        "sport_name": "Futsal"
+      },
+      {
+        "sport_id": "25",
+        "sport_name": "American Football"
+      },
+      {
+        "sport_id": "26",
+        "sport_name": "Bandy"
+      },
+      {
+        "sport_id": "27",
+        "sport_name": "Waterpolo"
+      },
+      {
+        "sport_id": "31",
+        "sport_name": "ESport League of Legends"
+      },
+      {
+        "sport_id": "32",
+        "sport_name": "ESport Counter-Strike"
+      },
+      {
+        "sport_id": "37",
+        "sport_name": "Floorball"
+      },
+      {
+        "sport_id": "38",
+        "sport_name": "ESport Dota"
+      },
+      {
+        "sport_id": "39",
+        "sport_name": "ESport Call of Duty"
+      }
+    ],
+    "tabs": [
+      {
+        "id": -1,
+        "date": "2026-01-09",
+        "name": "Today's Highlights",
+        "period_start": "2026-01-09 04:00:00",
+        "period_end": "2026-01-10 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": -2,
+        "date": "2026-01-09",
+        "name": "🔥 Next 48hrs",
+        "period_start": "2026-01-09 04:00:00",
+        "period_end": "2026-03-10 04:01:00",
+        "prioritized": false
+      },
+      {
+        "id": 1,
+        "date": "2026-01-10",
+        "name": "Tomorrow",
+        "period_start": "2026-01-10 04:00:00",
+        "period_end": "2026-01-11 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 2,
+        "date": "2026-01-11",
+        "name": "Sunday",
+        "period_start": "2026-01-11 04:00:00",
+        "period_end": "2026-01-12 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 3,
+        "date": "2026-01-12",
+        "name": "Monday",
+        "period_start": "2026-01-12 04:00:00",
+        "period_end": "2026-01-13 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 4,
+        "date": "2026-01-13",
+        "name": "Tuesday",
+        "period_start": "2026-01-13 04:00:00",
+        "period_end": "2026-01-14 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 5,
+        "date": "2026-01-14",
+        "name": "Wednesday",
+        "period_start": "2026-01-14 04:00:00",
+        "period_end": "2026-01-15 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 6,
+        "date": "2026-01-15",
+        "name": "Thursday",
+        "period_start": "2026-01-15 04:00:00",
+        "period_end": "2026-01-16 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 7,
+        "date": "2026-01-16",
+        "name": "Friday",
+        "period_start": "2026-01-16 04:00:00",
+        "period_end": "2026-01-17 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 8,
+        "date": "2026-01-17",
+        "name": "Next Week",
+        "period_start": "2026-01-17 04:00:00",
+        "period_end": "2026-03-10 04:01:00",
+        "prioritized": false
+      }
+    ],
+    "periods": [
+      {
+        "id": -1,
+        "date": "2026-01-09",
+        "name": "Today's Highlights",
+        "period_start": "2026-01-09 04:00:00",
+        "period_end": "2026-01-10 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": -2,
+        "date": "2026-01-09",
+        "name": "🔥 Next 48hrs",
+        "period_start": "2026-01-09 04:00:00",
+        "period_end": "2026-01-11 04:01:00",
+        "prioritized": false
+      },
+      {
+        "id": 1,
+        "date": "2026-01-10",
+        "name": "Tomorrow",
+        "period_start": "2026-01-10 04:00:00",
+        "period_end": "2026-01-11 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 2,
+        "date": "2026-01-11",
+        "name": "Sunday",
+        "period_start": "2026-01-11 04:00:00",
+        "period_end": "2026-01-12 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 3,
+        "date": "2026-01-12",
+        "name": "Monday",
+        "period_start": "2026-01-12 04:00:00",
+        "period_end": "2026-01-13 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 4,
+        "date": "2026-01-13",
+        "name": "Tuesday",
+        "period_start": "2026-01-13 04:00:00",
+        "period_end": "2026-01-14 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 5,
+        "date": "2026-01-14",
+        "name": "Wednesday",
+        "period_start": "2026-01-14 04:00:00",
+        "period_end": "2026-01-15 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 6,
+        "date": "2026-01-15",
+        "name": "Thursday",
+        "period_start": "2026-01-15 04:00:00",
+        "period_end": "2026-01-16 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 7,
+        "date": "2026-01-16",
+        "name": "Friday",
+        "period_start": "2026-01-16 04:00:00",
+        "period_end": "2026-01-17 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 8,
+        "date": "2026-01-17",
+        "name": "Next Week",
+        "period_start": "2026-01-17 04:00:00",
+        "period_end": "2026-05-09 04:01:00",
+        "prioritized": false
+      },
+      {
+        "id": 9,
+        "date": "2026-01-09",
+        "name": "All",
+        "period_start": "2026-01-09 04:00:00",
+        "period_end": "2026-05-09 04:01:00",
+        "prioritized": false
+      }
+    ],
+    "sort_options": [
+      {
+        "id": 1,
+        "name": "Highlights"
+      },
+      {
+        "id": 2,
+        "name": "Start time"
+      },
+      {
+        "id": 3,
+        "name": "Top leagues"
+      }
+    ],
+    "current_tab": [
+      {
+        "id": -2,
+        "date": "2026-01-09",
+        "name": "🔥 Next 48hrs",
+        "period_start": "2026-01-09 04:00:00",
+        "period_end": "2026-03-10 04:01:00",
+        "prioritized": false
+      }
+    ],
+    "is_boosted": false,
+    "is_esports": false,
+    "is_srl": false
+  },
+  "time_elapsed_secs": 0.0210940837860107
+}
+Chat
+
+New Conversation
+
+🤓 Explain a complex thing
+
+Explain Artificial Intelligence so that I can explain it to my six-year-old child.
+
+
+🧠 Get suggestions and create new ideas
+
+Please give me the best 10 travel ideas around the world
+
+
+💭 Translate, summarize, fix grammar and more…
+
+Translate "I love you" French
+
+
+
+AITOPIA
+Hello, how can I help you today?
+
+
+AITOPIA
+coin image
+10
+Upgrade
+
+
+
+
+Ask me anything...
+
+
+
+Make a Review & Earn Credit ❤
+Chat
+Ask
+Search
+Write
+Image
+ChatFile
+Vision
+Agent
+Full Page
+Invite & Earn

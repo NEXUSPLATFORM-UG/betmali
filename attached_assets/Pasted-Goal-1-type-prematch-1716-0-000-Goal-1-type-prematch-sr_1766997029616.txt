@@ -1,0 +1,275 @@
+Goal #1 type=prematch 1716
+0.000
+Goal #1 type=prematch sr:player:1088086
+15.000
+Goal #1 type=prematch sr:player:1134623
+6.400
+Goal #1 type=prematch sr:player:1134631
+7.600
+Goal #1 type=prematch sr:player:118368
+8.000
+Goal #1 type=prematch sr:player:1257820
+14.000
+Goal #1 type=prematch sr:player:1260172
+8.600
+Goal #1 type=prematch sr:player:1298608
+4.800
+Goal #1 type=prematch sr:player:1323154
+13.000
+Goal #1 type=prematch sr:player:1378447
+12.000
+Goal #1 type=prematch sr:player:1394135
+15.000
+Goal #1 type=prematch sr:player:1428117
+16.000
+Goal #1 type=prematch sr:player:1486280
+12.000
+Goal #1 type=prematch sr:player:1556603
+9.400
+Goal #1 type=prematch sr:player:1561812
+12.000
+Goal #1 type=prematch sr:player:1743721
+6.400
+Goal #1 type=prematch sr:player:198030
+16.000
+Goal #1 type=prematch sr:player:1993753
+8.200
+Goal #1 type=prematch sr:player:2025397
+5.000
+Goal #1 type=prematch sr:player:2157358
+7.600
+Goal #1 type=prematch sr:player:2206004
+6.600
+Goal #1 type=prematch sr:player:2283381
+15.000
+Goal #1 type=prematch sr:player:2283393
+10.000
+Goal #1 type=prematch sr:player:2283423
+10.000
+Goal #1 type=prematch sr:player:2327375
+16.000
+Goal #1 type=prematch sr:player:2337541
+10.000
+Goal #1 type=prematch sr:player:2411287
+6.200
+Goal #1 type=prematch sr:player:2555299
+15.000
+Goal #1 type=prematch sr:player:2586595
+6.800
+Goal #1 type=prematch sr:player:2588443
+11.000
+Goal #1 type=prematch sr:player:2654379
+13.000
+Goal #1 type=prematch sr:player:2657769
+6.400
+Goal #1 type=prematch sr:player:2666749
+12.000
+Goal #1 type=prematch sr:player:2825707
+7.000
+Goal #1 type=prematch sr:player:2839395
+14.000
+Goal #1 type=prematch sr:player:2839523
+15.000
+Goal #1 type=prematch sr:player:291219
+14.000
+Goal #1 type=prematch sr:player:2932997
+15.000
+Goal #1 type=prematch sr:player:2946749
+14.000
+Goal #1 type=prematch sr:player:3053801
+14.000
+Goal #1 type=prematch sr:player:3118788
+16.000
+Goal #1 type=prematch sr:player:3118796
+7.600
+Goal #1 type=prematch sr:player:360390
+8.200
+Goal #1 type=prematch sr:player:556904
+15.000
+Goal #1 type=prematch sr:player:816698
+11.000
+Goal #1 type=prematch sr:player:918988
+11.000
+Market 39
+type=prematch 1716
+0.000
+type=prematch sr:player:1088086
+15.000
+type=prematch sr:player:1134623
+6.400
+type=prematch sr:player:1134631
+7.600
+type=prematch sr:player:118368
+8.000
+type=prematch sr:player:1257820
+14.000
+type=prematch sr:player:1260172
+8.600
+type=prematch sr:player:1298608
+4.800
+type=prematch sr:player:1323154
+13.000
+type=prematch sr:player:1378447
+12.000
+type=prematch sr:player:1394135
+15.000
+type=prematch sr:player:1428117
+16.000
+type=prematch sr:player:1486280
+12.000
+type=prematch sr:player:1556603
+9.400
+type=prematch sr:player:1561812
+12.000
+type=prematch sr:player:1743721
+6.400
+type=prematch sr:player:198030
+16.000
+type=prematch sr:player:1993753
+8.200
+type=prematch sr:player:2025397
+5.000
+type=prematch sr:player:2157358
+7.600
+type=prematch sr:player:2206004
+6.600
+type=prematch sr:player:2283381
+15.000
+type=prematch sr:player:2283393
+10.000
+type=prematch sr:player:2283423
+10.000
+type=prematch sr:player:2327375
+16.000
+type=prematch sr:player:2337541
+10.000
+type=prematch sr:player:2411287
+6.200
+type=prematch sr:player:2555299
+15.000
+type=prematch sr:player:2586595
+6.800
+type=prematch sr:player:2588443
+11.000
+type=prematch sr:player:2654379
+13.000
+type=prematch sr:player:2657769
+6.400
+type=prematch sr:player:2666749
+12.000
+type=prematch sr:player:2825707
+7.000
+type=prematch sr:player:2839395
+14.000
+type=prematch sr:player:2839523
+15.000
+type=prematch sr:player:291219
+14.000
+type=prematch sr:player:2932997
+15.000
+type=prematch sr:player:2946749
+14.000
+type=prematch sr:player:3053801
+14.000
+type=prematch sr:player:3118788
+16.000
+type=prematch sr:player:3118796
+7.600
+type=prematch sr:player:360390
+8.200
+type=prematch sr:player:556904
+15.000
+type=prematch sr:player:816698
+11.000
+type=prematch sr:player:918988
+11.000
+Market 40
+type=prematch 1716
+0.000
+type=prematch sr:player:1088086
+5.200
+type=prematch sr:player:1134623
+2.500
+type=prematch sr:player:1134631
+2.850
+type=prematch sr:player:118368
+3.050
+type=prematch sr:player:1257820
+4.900
+type=prematch sr:player:1260172
+3.150
+type=prematch sr:player:1298608
+2.000
+type=prematch sr:player:1323154
+4.400
+type=prematch sr:player:1378447
+4.100
+type=prematch sr:player:1394135
+5.000
+type=prematch sr:player:1428117
+5.200
+type=prematch sr:player:1486280
+4.300
+type=prematch sr:player:1556603
+3.450
+type=prematch sr:player:1561812
+4.200
+type=prematch sr:player:1743721
+2.550
+type=prematch sr:player:198030
+5.200
+type=prematch sr:player:1993753
+3.100
+type=prematch sr:player:2025397
+2.080
+type=prematch sr:player:2157358
+2.900
+type=prematch sr:player:2206004
+2.600
+type=prematch sr:player:2283381
+5.000
+type=prematch sr:player:2283393
+3.700
+type=prematch sr:player:2283423
+3.700
+type=prematch sr:player:2327375
+5.200
+type=prematch sr:player:2337541
+3.700
+type=prematch sr:player:2411287
+2.460
+type=prematch sr:player:2555299
+5.200
+type=prematch sr:player:2586595
+2.650
+type=prematch sr:player:2588443
+3.800
+type=prematch sr:player:2654379
+4.500
+type=prematch sr:player:2657769
+2.490
+type=prematch sr:player:2666749
+4.200
+type=prematch sr:player:2825707
+2.700
+type=prematch sr:player:2839395
+4.900
+type=prematch sr:player:2839523
+5.000
+type=prematch sr:player:291219
+4.800
+type=prematch sr:player:2932997
+5.000
+type=prematch sr:player:2946749
+4.900
+type=prematch sr:player:3053801
+4.700
+type=prematch sr:player:3118788
+5.200
+type=prematch sr:player:3118796
+2.900
+type=prematch sr:player:360390
+3.050
+type=prematch sr:player:556904
+5.200
+type=prematch sr:player:816698

@@ -1,0 +1,42 @@
+{
+  "rules": {
+    "users": {
+      ".indexOn": ["phone", "email"],
+      ".read": "true",
+      ".write": "auth != null",
+      "$uid": {
+        ".read": "auth != null",
+        ".write": "auth != null",
+        "balance": {
+          ".write": "auth != null"
+        },
+        "virtualTickets": {
+          ".read": "auth != null",
+          ".write": "auth != null"
+        },
+        "transactions": {
+          ".read": "auth != null",
+          ".write": "auth != null"
+        },
+        "bets": {
+          ".read": "auth != null",
+          ".write": "auth != null"
+        }
+      }
+    },
+    "bets": {
+      ".indexOn": ["userId", "status"],
+      ".read": "true",
+      ".write": "auth != null"
+    },
+    "transactions": {
+      ".indexOn": ["userId", "status", "type"],
+      ".read": "true",
+      ".write": "auth != null"
+    },
+    "virtual_results": {
+      ".read": "true",
+      ".write": "auth != null"
+    }
+  }
+}

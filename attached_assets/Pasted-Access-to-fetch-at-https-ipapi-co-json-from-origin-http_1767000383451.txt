@@ -1,0 +1,81 @@
+Access to fetch at 'https://ipapi.co/json/' from origin 'https://e77ed143-ff18-46d3-b0d5-98318de0941a-00-1k0oizo2i8oy1.spock.replit.dev' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.Understand this error
+ipapi.co/json/:1  Failed to load resource: net::ERR_FAILEDUnderstand this error
+/api/matches/0:1  Failed to load resource: the server responded with a status of 404 (Not Found)Understand this error
+24.png:1  Failed to load resource: the server responded with a status of 500 ()Understand this error
+@radix-ui_react-dialog.js?v=8b4e1f8e:1394 `DialogContent` requires a `DialogTitle` for the component to be accessible for screen reader users.
+
+If you want to hide the `DialogTitle`, you can wrap it with our VisuallyHidden component.
+
+For more information, see https://radix-ui.com/primitives/docs/components/dialog
+(anonymous) @ @radix-ui_react-dialog.js?v=8b4e1f8e:1394
+commitHookEffectListMount @ chunk-LPF6KSF2.js?v=8b4e1f8e:16963
+commitPassiveMountOnFiber @ chunk-LPF6KSF2.js?v=8b4e1f8e:18206
+commitPassiveMountEffects_complete @ chunk-LPF6KSF2.js?v=8b4e1f8e:18179
+commitPassiveMountEffects_begin @ chunk-LPF6KSF2.js?v=8b4e1f8e:18169
+commitPassiveMountEffects @ chunk-LPF6KSF2.js?v=8b4e1f8e:18159
+flushPassiveEffectsImpl @ chunk-LPF6KSF2.js?v=8b4e1f8e:19543
+flushPassiveEffects @ chunk-LPF6KSF2.js?v=8b4e1f8e:19500
+commitRootImpl @ chunk-LPF6KSF2.js?v=8b4e1f8e:19469
+commitRoot @ chunk-LPF6KSF2.js?v=8b4e1f8e:19330
+performSyncWorkOnRoot @ chunk-LPF6KSF2.js?v=8b4e1f8e:18948
+flushSyncCallbacks @ chunk-LPF6KSF2.js?v=8b4e1f8e:9166
+(anonymous) @ chunk-LPF6KSF2.js?v=8b4e1f8e:18677Understand this error
+@radix-ui_react-dialog.js?v=8b4e1f8e:1407 Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+(anonymous) @ @radix-ui_react-dialog.js?v=8b4e1f8e:1407
+commitHookEffectListMount @ chunk-LPF6KSF2.js?v=8b4e1f8e:16963
+commitPassiveMountOnFiber @ chunk-LPF6KSF2.js?v=8b4e1f8e:18206
+commitPassiveMountEffects_complete @ chunk-LPF6KSF2.js?v=8b4e1f8e:18179
+commitPassiveMountEffects_begin @ chunk-LPF6KSF2.js?v=8b4e1f8e:18169
+commitPassiveMountEffects @ chunk-LPF6KSF2.js?v=8b4e1f8e:18159
+flushPassiveEffectsImpl @ chunk-LPF6KSF2.js?v=8b4e1f8e:19543
+flushPassiveEffects @ chunk-LPF6KSF2.js?v=8b4e1f8e:19500
+commitRootImpl @ chunk-LPF6KSF2.js?v=8b4e1f8e:19469
+commitRoot @ chunk-LPF6KSF2.js?v=8b4e1f8e:19330
+performSyncWorkOnRoot @ chunk-LPF6KSF2.js?v=8b4e1f8e:18948
+flushSyncCallbacks @ chunk-LPF6KSF2.js?v=8b4e1f8e:9166
+(anonymous) @ chunk-LPF6KSF2.js?v=8b4e1f8e:18677Understand this warning
+24.png:1  Failed to load resource: the server responded with a status of 500 ()Understand this error
+@radix-ui_react-dialog.js?v=8b4e1f8e:1394 `DialogContent` requires a `DialogTitle` for the component to be accessible for screen reader users.
+
+If you want to hide the `DialogTitle`, you can wrap it with our VisuallyHidden component.
+
+For more information, see https://radix-ui.com/primitives/docs/components/dialog
+(anonymous) @ @radix-ui_react-dialog.js?v=8b4e1f8e:1394
+commitHookEffectListMount @ chunk-LPF6KSF2.js?v=8b4e1f8e:16963
+commitPassiveMountOnFiber @ chunk-LPF6KSF2.js?v=8b4e1f8e:18206
+commitPassiveMountEffects_complete @ chunk-LPF6KSF2.js?v=8b4e1f8e:18179
+commitPassiveMountEffects_begin @ chunk-LPF6KSF2.js?v=8b4e1f8e:18169
+commitPassiveMountEffects @ chunk-LPF6KSF2.js?v=8b4e1f8e:18159
+flushPassiveEffectsImpl @ chunk-LPF6KSF2.js?v=8b4e1f8e:19543
+flushPassiveEffects @ chunk-LPF6KSF2.js?v=8b4e1f8e:19500
+commitRootImpl @ chunk-LPF6KSF2.js?v=8b4e1f8e:19469
+commitRoot @ chunk-LPF6KSF2.js?v=8b4e1f8e:19330
+performSyncWorkOnRoot @ chunk-LPF6KSF2.js?v=8b4e1f8e:18948
+flushSyncCallbacks @ chunk-LPF6KSF2.js?v=8b4e1f8e:9166
+(anonymous) @ chunk-LPF6KSF2.js?v=8b4e1f8e:18677Understand this error
+@radix-ui_react-dialog.js?v=8b4e1f8e:1407 Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+(anonymous) @ @radix-ui_react-dialog.js?v=8b4e1f8e:1407
+commitHookEffectListMount @ chunk-LPF6KSF2.js?v=8b4e1f8e:16963
+commitPassiveMountOnFiber @ chunk-LPF6KSF2.js?v=8b4e1f8e:18206
+commitPassiveMountEffects_complete @ chunk-LPF6KSF2.js?v=8b4e1f8e:18179
+commitPassiveMountEffects_begin @ chunk-LPF6KSF2.js?v=8b4e1f8e:18169
+commitPassiveMountEffects @ chunk-LPF6KSF2.js?v=8b4e1f8e:18159
+flushPassiveEffectsImpl @ chunk-LPF6KSF2.js?v=8b4e1f8e:19543
+flushPassiveEffects @ chunk-LPF6KSF2.js?v=8b4e1f8e:19500
+commitRootImpl @ chunk-LPF6KSF2.js?v=8b4e1f8e:19469
+commitRoot @ chunk-LPF6KSF2.js?v=8b4e1f8e:19330
+performSyncWorkOnRoot @ chunk-LPF6KSF2.js?v=8b4e1f8e:18948
+flushSyncCallbacks @ chunk-LPF6KSF2.js?v=8b4e1f8e:9166
+(anonymous) @ chunk-LPF6KSF2.js?v=8b4e1f8e:18677Understand this warning
+24.png:1  GET https://flagsapi.com/UN/flat/24.png 500 (Internal Server Error)
+Image
+commitMount @ chunk-LPF6KSF2.js?v=8b4e1f8e:8459
+commitLayoutEffectOnFiber @ chunk-LPF6KSF2.js?v=8b4e1f8e:17150
+commitLayoutMountEffects_complete @ chunk-LPF6KSF2.js?v=8b4e1f8e:18030
+commitLayoutEffects_begin @ chunk-LPF6KSF2.js?v=8b4e1f8e:18019
+commitLayoutEffects @ chunk-LPF6KSF2.js?v=8b4e1f8e:17970
+commitRootImpl @ chunk-LPF6KSF2.js?v=8b4e1f8e:19406
+commitRoot @ chunk-LPF6KSF2.js?v=8b4e1f8e:19330
+performSyncWorkOnRoot @ chunk-LPF6KSF2.js?v=8b4e1f8e:18948
+flushSyncCallbacks @ chunk-LPF6KSF2.js?v=8b4e1f8e:9166
+(anonymous) @ chunk-LPF6KSF2.js?v=8b4e1f8e:18677Understand this error

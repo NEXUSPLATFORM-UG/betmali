@@ -1,0 +1,3056 @@
+{
+  "data": [
+    {
+      "sport_id": "1",
+      "sport_name": "Tennis",
+      "categories": [
+        {
+          "category_id": "38",
+          "category_name": "ATP",
+          "competitions": [
+            {
+              "competition_id": "11829",
+              "competition_name": "ATP Brisbane, Australia Men Singles"
+            },
+            {
+              "competition_id": "8252",
+              "competition_name": "ATP Hong Kong, Hong Kong Men Doubles"
+            },
+            {
+              "competition_id": "8267",
+              "competition_name": "ATP Brisbane, Australia Men Doubles"
+            },
+            {
+              "competition_id": "8296",
+              "competition_name": "ATP Auckland, New Zealand Men Singles"
+            },
+            {
+              "competition_id": "8251",
+              "competition_name": "ATP Hong Kong, Hong Kong Men Singles"
+            }
+          ]
+        },
+        {
+          "category_id": "5",
+          "category_name": "Challenger",
+          "competitions": [
+            {
+              "competition_id": "1334",
+              "competition_name": "ATP Challenger Bengaluru, India Men Singles"
+            },
+            {
+              "competition_id": "1192",
+              "competition_name": "ATP Challenger Nottingham, Great Britain Men Singles"
+            },
+            {
+              "competition_id": "1193",
+              "competition_name": "ATP Challenger Nottingham, Great Britain Men Doubles"
+            },
+            {
+              "competition_id": "8255",
+              "competition_name": "ATP Challenger Canberra, Australia Men Doubles"
+            }
+          ]
+        },
+        {
+          "category_id": "616",
+          "category_name": "United Cup",
+          "competitions": [
+            {
+              "competition_id": "8166",
+              "competition_name": "United Cup"
+            }
+          ]
+        },
+        {
+          "category_id": "620",
+          "category_name": "UTR Men",
+          "competitions": [
+            {
+              "competition_id": "11835",
+              "competition_name": "UTR PTT Stirling Men 01"
+            },
+            {
+              "competition_id": "10129",
+              "competition_name": "UTR PTT Athens Men 01"
+            },
+            {
+              "competition_id": "11844",
+              "competition_name": "UTR PTT South Bend Men 01"
+            },
+            {
+              "competition_id": "8378",
+              "competition_name": "UTR Newport Beach M01"
+            },
+            {
+              "competition_id": "11841",
+              "competition_name": "UTR PTT Wagga Wagga Men 01"
+            },
+            {
+              "competition_id": "8458",
+              "competition_name": "UTR Yokohama M01"
+            }
+          ]
+        },
+        {
+          "category_id": "621",
+          "category_name": "UTR Women",
+          "competitions": [
+            {
+              "competition_id": "10130",
+              "competition_name": "UTR PTT Athens Women 01"
+            },
+            {
+              "competition_id": "11847",
+              "competition_name": "UTR PTT South Bend Women 01"
+            },
+            {
+              "competition_id": "8279",
+              "competition_name": "UTR Newport Beach W01"
+            },
+            {
+              "competition_id": "11842",
+              "competition_name": "UTR PTT Stirling Women 01"
+            }
+          ]
+        },
+        {
+          "category_id": "32",
+          "category_name": "WTA",
+          "competitions": [
+            {
+              "competition_id": "8227",
+              "competition_name": "WTA Brisbane, Australia Women Singles"
+            },
+            {
+              "competition_id": "8257",
+              "competition_name": "WTA Auckland, New Zealand Women Singles"
+            },
+            {
+              "competition_id": "8308",
+              "competition_name": "WTA Adelaide 1, Australia Women Singles"
+            },
+            {
+              "competition_id": "8249",
+              "competition_name": "WTA Brisbane, Australia Women Doubles"
+            }
+          ]
+        },
+        {
+          "category_id": "306",
+          "category_name": "WTA 125K",
+          "competitions": [
+            {
+              "competition_id": "8271",
+              "competition_name": "WTA 125K Canberra, Australia Women Singles"
+            }
+          ]
+        }
+      ],
+      "top_leagues": {
+        "4": {
+          "competition_id": "11847",
+          "competition_name": "UTR PTT South Bend Women 01",
+          "sport_id": "1",
+          "category_id": "621",
+          "category_name": "UTR Women",
+          "count": "5"
+        },
+        "5": {
+          "competition_id": "11844",
+          "competition_name": "UTR PTT South Bend Men 01",
+          "sport_id": "1",
+          "category_id": "620",
+          "category_name": "UTR Men",
+          "count": "8"
+        },
+        "6": {
+          "competition_id": "11842",
+          "competition_name": "UTR PTT Stirling Women 01",
+          "sport_id": "1",
+          "category_id": "621",
+          "category_name": "UTR Women",
+          "count": "2"
+        },
+        "7": {
+          "competition_id": "11841",
+          "competition_name": "UTR PTT Wagga Wagga Men 01",
+          "sport_id": "1",
+          "category_id": "620",
+          "category_name": "UTR Men",
+          "count": "4"
+        },
+        "8": {
+          "competition_id": "11835",
+          "competition_name": "UTR PTT Stirling Men 01",
+          "sport_id": "1",
+          "category_id": "620",
+          "category_name": "UTR Men",
+          "count": "4"
+        }
+      }
+    },
+    {
+      "sport_id": "3",
+      "sport_name": "Soccer",
+      "categories": [
+        {
+          "category_id": "75",
+          "category_name": "England",
+          "competitions": [
+            {
+              "competition_id": "268",
+              "competition_name": "Premier League"
+            },
+            {
+              "competition_id": "348",
+              "competition_name": "National League"
+            },
+            {
+              "competition_id": "242",
+              "competition_name": "Championship"
+            },
+            {
+              "competition_id": "167",
+              "competition_name": "League One"
+            },
+            {
+              "competition_id": "137",
+              "competition_name": "League Two"
+            },
+            {
+              "competition_id": "442",
+              "competition_name": "EFL Cup"
+            },
+            {
+              "competition_id": "277",
+              "competition_name": "FA Cup"
+            }
+          ]
+        },
+        {
+          "category_id": "48",
+          "category_name": "Spain",
+          "competitions": [
+            {
+              "competition_id": "540",
+              "competition_name": "LaLiga"
+            },
+            {
+              "competition_id": "297",
+              "competition_name": "LaLiga 2"
+            },
+            {
+              "competition_id": "131",
+              "competition_name": "Segunda Federacion"
+            },
+            {
+              "competition_id": "161",
+              "competition_name": "Primera Federacion"
+            },
+            {
+              "competition_id": "96",
+              "competition_name": "Copa del Rey"
+            },
+            {
+              "competition_id": "7521",
+              "competition_name": "Supercopa"
+            },
+            {
+              "competition_id": "517",
+              "competition_name": "Primera Division Women"
+            },
+            {
+              "competition_id": "10571",
+              "competition_name": "U19 Division de Honor Juvenil"
+            }
+          ]
+        },
+        {
+          "category_id": "77",
+          "category_name": "Italy",
+          "competitions": [
+            {
+              "competition_id": "353",
+              "competition_name": "Serie A"
+            },
+            {
+              "competition_id": "1306",
+              "competition_name": "Coppa Italia"
+            },
+            {
+              "competition_id": "433",
+              "competition_name": "Serie B"
+            },
+            {
+              "competition_id": "351",
+              "competition_name": "Serie C, Group C"
+            },
+            {
+              "competition_id": "548",
+              "competition_name": "Serie C, Group B"
+            },
+            {
+              "competition_id": "546",
+              "competition_name": "Serie C, Group A"
+            },
+            {
+              "competition_id": "5605",
+              "competition_name": "Primavera 1"
+            },
+            {
+              "competition_id": "6468",
+              "competition_name": "Primavera 2"
+            }
+          ]
+        },
+        {
+          "category_id": "49",
+          "category_name": "Germany",
+          "competitions": [
+            {
+              "competition_id": "100",
+              "competition_name": "Bundesliga"
+            },
+            {
+              "competition_id": "97",
+              "competition_name": "2. Bundesliga"
+            },
+            {
+              "competition_id": "994",
+              "competition_name": "DFB Pokal"
+            },
+            {
+              "competition_id": "577",
+              "competition_name": "3. Liga"
+            }
+          ]
+        },
+        {
+          "category_id": "80",
+          "category_name": "France",
+          "competitions": [
+            {
+              "competition_id": "594",
+              "competition_name": "Ligue 1"
+            },
+            {
+              "competition_id": "238",
+              "competition_name": "Ligue 2"
+            },
+            {
+              "competition_id": "273",
+              "competition_name": "Coupe de France"
+            },
+            {
+              "competition_id": "1779",
+              "competition_name": "National 2"
+            },
+            {
+              "competition_id": "998",
+              "competition_name": "Coupe de France, Women"
+            }
+          ]
+        },
+        {
+          "category_id": "46",
+          "category_name": "Scotland",
+          "competitions": [
+            {
+              "competition_id": "247",
+              "competition_name": "Premiership"
+            },
+            {
+              "competition_id": "234",
+              "competition_name": "Championship"
+            },
+            {
+              "competition_id": "259",
+              "competition_name": "League 2"
+            },
+            {
+              "competition_id": "383",
+              "competition_name": "League 1"
+            },
+            {
+              "competition_id": "154",
+              "competition_name": "Scottish Cup"
+            },
+            {
+              "competition_id": "1133",
+              "competition_name": "Challenge Cup"
+            }
+          ]
+        },
+        {
+          "category_id": "98",
+          "category_name": "Netherlands",
+          "competitions": [
+            {
+              "competition_id": "295",
+              "competition_name": "Eredivisie"
+            },
+            {
+              "competition_id": "294",
+              "competition_name": "Eerste Divisie"
+            }
+          ]
+        },
+        {
+          "category_id": "59",
+          "category_name": "International",
+          "competitions": [
+            {
+              "competition_id": "110",
+              "competition_name": "Africa Cup of Nations"
+            }
+          ]
+        },
+        {
+          "category_id": "53",
+          "category_name": "Albania",
+          "competitions": [
+            {
+              "competition_id": "866",
+              "competition_name": "Kupa e Shqiperise"
+            }
+          ]
+        },
+        {
+          "category_id": "40",
+          "category_name": "Algeria",
+          "competitions": [
+            {
+              "competition_id": "113",
+              "competition_name": "Ligue 1"
+            }
+          ]
+        },
+        {
+          "category_id": "36",
+          "category_name": "Argentina",
+          "competitions": [
+            {
+              "competition_id": "8485",
+              "competition_name": "Primera LPF"
+            },
+            {
+              "competition_id": "861",
+              "competition_name": "Copa Argentina"
+            }
+          ]
+        },
+        {
+          "category_id": "102",
+          "category_name": "Australia",
+          "competitions": [
+            {
+              "competition_id": "510",
+              "competition_name": "A-League"
+            },
+            {
+              "competition_id": "199",
+              "competition_name": "A-League, Women"
+            }
+          ]
+        },
+        {
+          "category_id": "65",
+          "category_name": "Austria",
+          "competitions": [
+            {
+              "competition_id": "440",
+              "competition_name": "Bundesliga"
+            }
+          ]
+        },
+        {
+          "category_id": "63",
+          "category_name": "Bahrain",
+          "competitions": [
+            {
+              "competition_id": "1249",
+              "competition_name": "Premier League"
+            }
+          ]
+        },
+        {
+          "category_id": "120",
+          "category_name": "Belgium",
+          "competitions": [
+            {
+              "competition_id": "260",
+              "competition_name": "Pro League"
+            },
+            {
+              "competition_id": "6147",
+              "competition_name": "Nationale 1 ACFF"
+            },
+            {
+              "competition_id": "6199",
+              "competition_name": "Nationale 1 VV"
+            },
+            {
+              "competition_id": "660",
+              "competition_name": "Super League, Women"
+            }
+          ]
+        },
+        {
+          "category_id": "16",
+          "category_name": "Brazil",
+          "competitions": [
+            {
+              "competition_id": "3145",
+              "competition_name": "Brasileiro Serie A"
+            },
+            {
+              "competition_id": "1015",
+              "competition_name": "Supercopa do Brasil"
+            },
+            {
+              "competition_id": "40",
+              "competition_name": "U20 Copa Sao Paulo de Juniores"
+            },
+            {
+              "competition_id": "299",
+              "competition_name": "Paulista, Serie A1"
+            },
+            {
+              "competition_id": "1059",
+              "competition_name": "Gaucho, Serie A1"
+            },
+            {
+              "competition_id": "1064",
+              "competition_name": "Mineiro, Modulo I"
+            },
+            {
+              "competition_id": "163",
+              "competition_name": "Pernambucano"
+            },
+            {
+              "competition_id": "8201",
+              "competition_name": "Carioca, Serie A"
+            },
+            {
+              "competition_id": "178",
+              "competition_name": "Paulista, Serie A2"
+            }
+          ]
+        },
+        {
+          "category_id": "296",
+          "category_name": "Bulgaria",
+          "competitions": [
+            {
+              "competition_id": "1240",
+              "competition_name": "Parva Liga"
+            }
+          ]
+        },
+        {
+          "category_id": "146",
+          "category_name": "Colombia",
+          "competitions": [
+            {
+              "competition_id": "8394",
+              "competition_name": "Superliga"
+            }
+          ]
+        },
+        {
+          "category_id": "134",
+          "category_name": "Costa Rica",
+          "competitions": [
+            {
+              "competition_id": "288",
+              "competition_name": "Primera Division, Clausura"
+            }
+          ]
+        },
+        {
+          "category_id": "131",
+          "category_name": "Cyprus",
+          "competitions": [
+            {
+              "competition_id": "570",
+              "competition_name": "1st Division"
+            },
+            {
+              "competition_id": "486",
+              "competition_name": "2nd Division"
+            }
+          ]
+        },
+        {
+          "category_id": "546",
+          "category_name": "Czechia",
+          "competitions": [
+            {
+              "competition_id": "4166",
+              "competition_name": "1. Liga"
+            },
+            {
+              "competition_id": "8347",
+              "competition_name": "Winter League"
+            }
+          ]
+        },
+        {
+          "category_id": "224",
+          "category_name": "Denmark",
+          "competitions": [
+            {
+              "competition_id": "816",
+              "competition_name": "Superliga"
+            },
+            {
+              "competition_id": "1303",
+              "competition_name": "DBU Pokalen"
+            }
+          ]
+        },
+        {
+          "category_id": "195",
+          "category_name": "Egypt",
+          "competitions": [
+            {
+              "competition_id": "5608",
+              "competition_name": "League Cup"
+            }
+          ]
+        },
+        {
+          "category_id": "17",
+          "category_name": "England Amateur",
+          "competitions": [
+            {
+              "competition_id": "6393",
+              "competition_name": "Super League Women"
+            },
+            {
+              "competition_id": "306",
+              "competition_name": "National League South"
+            },
+            {
+              "competition_id": "44",
+              "competition_name": "National League North"
+            },
+            {
+              "competition_id": "126",
+              "competition_name": "Southern League Premier South"
+            },
+            {
+              "competition_id": "1251",
+              "competition_name": "FA Trophy"
+            },
+            {
+              "competition_id": "5687",
+              "competition_name": "Southern League Premier Central"
+            },
+            {
+              "competition_id": "5686",
+              "competition_name": "Northern Premier League Premier"
+            },
+            {
+              "competition_id": "156",
+              "competition_name": "Isthmian League, Pr. Div"
+            },
+            {
+              "competition_id": "5881",
+              "competition_name": "U21 Premier League 2"
+            },
+            {
+              "competition_id": "10494",
+              "competition_name": "Super League 2, Women"
+            }
+          ]
+        },
+        {
+          "category_id": "13",
+          "category_name": "Ethiopia",
+          "competitions": [
+            {
+              "competition_id": "36",
+              "competition_name": "Premier League"
+            }
+          ]
+        },
+        {
+          "category_id": "247",
+          "category_name": "Gibraltar",
+          "competitions": [
+            {
+              "competition_id": "708",
+              "competition_name": "National League"
+            }
+          ]
+        },
+        {
+          "category_id": "30",
+          "category_name": "Greece",
+          "competitions": [
+            {
+              "competition_id": "558",
+              "competition_name": "Super League"
+            },
+            {
+              "competition_id": "274",
+              "competition_name": "Greece Cup"
+            },
+            {
+              "competition_id": "67",
+              "competition_name": "Super League 2"
+            }
+          ]
+        },
+        {
+          "category_id": "228",
+          "category_name": "Hong Kong, China",
+          "competitions": [
+            {
+              "competition_id": "837",
+              "competition_name": "Premier League"
+            }
+          ]
+        },
+        {
+          "category_id": "96",
+          "category_name": "Indonesia",
+          "competitions": [
+            {
+              "competition_id": "10527",
+              "competition_name": "Super League"
+            },
+            {
+              "competition_id": "10614",
+              "competition_name": "Championship"
+            }
+          ]
+        },
+        {
+          "category_id": "4",
+          "category_name": "International Clubs",
+          "competitions": [
+            {
+              "competition_id": "358",
+              "competition_name": "UEFA Champions League"
+            },
+            {
+              "competition_id": "1365",
+              "competition_name": "UEFA Europa League"
+            },
+            {
+              "competition_id": "8434",
+              "competition_name": "CONMEBOL Libertadores"
+            },
+            {
+              "competition_id": "11",
+              "competition_name": "Club Friendly Games"
+            }
+          ]
+        },
+        {
+          "category_id": "144",
+          "category_name": "International Youth",
+          "competitions": [
+            {
+              "competition_id": "2641",
+              "competition_name": "AFC U23 Asian Cup"
+            }
+          ]
+        },
+        {
+          "category_id": "322",
+          "category_name": "Iraq",
+          "competitions": [
+            {
+              "competition_id": "6876",
+              "competition_name": "Stars League"
+            }
+          ]
+        },
+        {
+          "category_id": "79",
+          "category_name": "Israel",
+          "competitions": [
+            {
+              "competition_id": "148",
+              "competition_name": "Premier League"
+            },
+            {
+              "competition_id": "217",
+              "competition_name": "National League"
+            },
+            {
+              "competition_id": "360",
+              "competition_name": "Liga Alef"
+            }
+          ]
+        },
+        {
+          "category_id": "99",
+          "category_name": "Kenya",
+          "competitions": [
+            {
+              "competition_id": "192",
+              "competition_name": "Premier League"
+            },
+            {
+              "competition_id": "2098",
+              "competition_name": "Super League"
+            }
+          ]
+        },
+        {
+          "category_id": "531",
+          "category_name": "Malaysia",
+          "competitions": [
+            {
+              "competition_id": "3877",
+              "competition_name": "Super League"
+            }
+          ]
+        },
+        {
+          "category_id": "245",
+          "category_name": "Mali",
+          "competitions": [
+            {
+              "competition_id": "694",
+              "competition_name": "Ligue 1"
+            }
+          ]
+        },
+        {
+          "category_id": "103",
+          "category_name": "Malta",
+          "competitions": [
+            {
+              "competition_id": "627",
+              "competition_name": "Premier League"
+            },
+            {
+              "competition_id": "200",
+              "competition_name": "Challenge League"
+            }
+          ]
+        },
+        {
+          "category_id": "50",
+          "category_name": "Mexico",
+          "competitions": [
+            {
+              "competition_id": "350",
+              "competition_name": "Liga MX, Clausura"
+            },
+            {
+              "competition_id": "159",
+              "competition_name": "Liga MX, Women, Clausura"
+            },
+            {
+              "competition_id": "219",
+              "competition_name": "Liga de Expansion MX, Clausura"
+            },
+            {
+              "competition_id": "101",
+              "competition_name": "Liga Premier Serie A"
+            },
+            {
+              "competition_id": "9844",
+              "competition_name": "U21 Liga MX"
+            },
+            {
+              "competition_id": "361",
+              "competition_name": "Liga Premier Serie B"
+            }
+          ]
+        },
+        {
+          "category_id": "71",
+          "category_name": "Northern Ireland",
+          "competitions": [
+            {
+              "competition_id": "291",
+              "competition_name": "Premiership"
+            },
+            {
+              "competition_id": "130",
+              "competition_name": "Championship"
+            },
+            {
+              "competition_id": "1185",
+              "competition_name": "Irish Cup"
+            }
+          ]
+        },
+        {
+          "category_id": "42",
+          "category_name": "Portugal",
+          "competitions": [
+            {
+              "competition_id": "485",
+              "competition_name": "Liga Portugal"
+            },
+            {
+              "competition_id": "566",
+              "competition_name": "Liga Portugal 2"
+            },
+            {
+              "competition_id": "272",
+              "competition_name": "Liga Portugal 3"
+            },
+            {
+              "competition_id": "687",
+              "competition_name": "League Cup"
+            },
+            {
+              "competition_id": "170",
+              "competition_name": "U23 Liga Revelacao"
+            },
+            {
+              "competition_id": "385",
+              "competition_name": "Campeonato de Portugal"
+            },
+            {
+              "competition_id": "86",
+              "competition_name": "U19 Campeonato Nacional"
+            }
+          ]
+        },
+        {
+          "category_id": "149",
+          "category_name": "Qatar",
+          "competitions": [
+            {
+              "competition_id": "3529",
+              "competition_name": "Amir Cup"
+            }
+          ]
+        },
+        {
+          "category_id": "125",
+          "category_name": "Romania",
+          "competitions": [
+            {
+              "competition_id": "258",
+              "competition_name": "Superliga"
+            }
+          ]
+        },
+        {
+          "category_id": "301",
+          "category_name": "Russia",
+          "competitions": [
+            {
+              "competition_id": "1126",
+              "competition_name": "Premier League"
+            },
+            {
+              "competition_id": "1124",
+              "competition_name": "Russian Cup"
+            }
+          ]
+        },
+        {
+          "category_id": "233",
+          "category_name": "Saudi Arabia",
+          "competitions": [
+            {
+              "competition_id": "623",
+              "competition_name": "Saudi Pro League"
+            }
+          ]
+        },
+        {
+          "category_id": "508",
+          "category_name": "Singapore",
+          "competitions": [
+            {
+              "competition_id": "8480",
+              "competition_name": "Singapore Cup"
+            }
+          ]
+        },
+        {
+          "category_id": "76",
+          "category_name": "Spain Amateur",
+          "competitions": [
+            {
+              "competition_id": "241",
+              "competition_name": "Tercera Federacion, Group 7"
+            },
+            {
+              "competition_id": "326",
+              "competition_name": "Tercera Federacion, Group 5"
+            },
+            {
+              "competition_id": "223",
+              "competition_name": "Tercera Federacion, Group 8"
+            },
+            {
+              "competition_id": "194",
+              "competition_name": "Tercera Federacion, Group 6"
+            }
+          ]
+        },
+        {
+          "category_id": "124",
+          "category_name": "Switzerland",
+          "competitions": [
+            {
+              "competition_id": "409",
+              "competition_name": "Super League"
+            }
+          ]
+        },
+        {
+          "category_id": "137",
+          "category_name": "Thailand",
+          "competitions": [
+            {
+              "competition_id": "704",
+              "competition_name": "Thai League 1"
+            },
+            {
+              "competition_id": "293",
+              "competition_name": "Thai League 2"
+            }
+          ]
+        },
+        {
+          "category_id": "127",
+          "category_name": "Turkiye",
+          "competitions": [
+            {
+              "competition_id": "554",
+              "competition_name": "Super Lig"
+            },
+            {
+              "competition_id": "513",
+              "competition_name": "1. Lig"
+            },
+            {
+              "competition_id": "2416",
+              "competition_name": "Super Kupa"
+            }
+          ]
+        },
+        {
+          "category_id": "81",
+          "category_name": "Turkiye Amateur",
+          "competitions": [
+            {
+              "competition_id": "202",
+              "competition_name": "2. Lig"
+            },
+            {
+              "competition_id": "197",
+              "competition_name": "3. Lig, Group 4"
+            },
+            {
+              "competition_id": "321",
+              "competition_name": "3. Lig, Group 1"
+            }
+          ]
+        },
+        {
+          "category_id": "73",
+          "category_name": "United Arab Emirates",
+          "competitions": [
+            {
+              "competition_id": "1041",
+              "competition_name": "Arabian Gulf League"
+            }
+          ]
+        },
+        {
+          "category_id": "159",
+          "category_name": "Uruguay",
+          "competitions": [
+            {
+              "competition_id": "11872",
+              "competition_name": "Copa de La Liga"
+            }
+          ]
+        },
+        {
+          "category_id": "254",
+          "category_name": "Wales",
+          "competitions": [
+            {
+              "competition_id": "783",
+              "competition_name": "Cymru Premier"
+            },
+            {
+              "competition_id": "776",
+              "competition_name": "Cymru Championship, North"
+            },
+            {
+              "competition_id": "724",
+              "competition_name": "Cymru Championship South"
+            }
+          ]
+        }
+      ],
+      "top_leagues": {
+        "0": {
+          "competition_id": "369",
+          "competition_name": "Premier League",
+          "sport_id": "3",
+          "category_id": "162",
+          "category_name": "Ghana",
+          "count": "1"
+        },
+        "1": {
+          "competition_id": "1365",
+          "competition_name": "UEFA Europa League",
+          "sport_id": "3",
+          "category_id": "4",
+          "category_name": "International Clubs",
+          "count": "18"
+        },
+        "2": {
+          "competition_id": "268",
+          "competition_name": "Premier League",
+          "sport_id": "3",
+          "category_id": "75",
+          "category_name": "England",
+          "count": "20"
+        },
+        "5": {
+          "competition_id": "11872",
+          "competition_name": "Copa de La Liga",
+          "sport_id": "3",
+          "category_id": "159",
+          "category_name": "Uruguay",
+          "count": "8"
+        }
+      }
+    },
+    {
+      "sport_id": "11",
+      "sport_name": "Boxing",
+      "categories": [
+        {
+          "category_id": "12",
+          "category_name": "International",
+          "competitions": [
+            {
+              "competition_id": "32",
+              "competition_name": "International Matchups"
+            }
+          ]
+        }
+      ],
+      "top_leagues": [
+        {
+          "competition_id": "32",
+          "competition_name": "International Matchups",
+          "sport_id": "11",
+          "category_id": "12",
+          "category_name": "International",
+          "count": "18"
+        }
+      ]
+    },
+    {
+      "sport_id": "6",
+      "sport_name": "Basketball",
+      "categories": [
+        {
+          "category_id": "225",
+          "category_name": "England",
+          "competitions": [
+            {
+              "competition_id": "7528",
+              "competition_name": "SLB"
+            }
+          ]
+        },
+        {
+          "category_id": "66",
+          "category_name": "Spain",
+          "competitions": [
+            {
+              "competition_id": "5896",
+              "competition_name": "Primera FEB"
+            },
+            {
+              "competition_id": "352",
+              "competition_name": "Liga Femenina"
+            }
+          ]
+        },
+        {
+          "category_id": "128",
+          "category_name": "Italy",
+          "competitions": [
+            {
+              "competition_id": "265",
+              "competition_name": "Serie B"
+            },
+            {
+              "competition_id": "775",
+              "competition_name": "A1 Women"
+            },
+            {
+              "competition_id": "7520",
+              "competition_name": "Serie A2, Women"
+            },
+            {
+              "competition_id": "616",
+              "competition_name": "Serie A"
+            },
+            {
+              "competition_id": "264",
+              "competition_name": "Serie A2"
+            }
+          ]
+        },
+        {
+          "category_id": "167",
+          "category_name": "Germany",
+          "competitions": [
+            {
+              "competition_id": "505",
+              "competition_name": "Pro A"
+            },
+            {
+              "competition_id": "640",
+              "competition_name": "BBL"
+            },
+            {
+              "competition_id": "378",
+              "competition_name": "1. DBBL"
+            },
+            {
+              "competition_id": "7675",
+              "competition_name": "Pro B"
+            }
+          ]
+        },
+        {
+          "category_id": "156",
+          "category_name": "France",
+          "competitions": [
+            {
+              "competition_id": "1080",
+              "competition_name": "LNB Elite"
+            },
+            {
+              "competition_id": "985",
+              "competition_name": "LFB, Women"
+            },
+            {
+              "competition_id": "2389",
+              "competition_name": "Nationale 1"
+            },
+            {
+              "competition_id": "10583",
+              "competition_name": "LNB Elite 2"
+            }
+          ]
+        },
+        {
+          "category_id": "56",
+          "category_name": "International",
+          "competitions": [
+            {
+              "competition_id": "10903",
+              "competition_name": "WBBL, Women"
+            },
+            {
+              "competition_id": "327",
+              "competition_name": "Euroleague"
+            },
+            {
+              "competition_id": "2132",
+              "competition_name": "BNXT League"
+            },
+            {
+              "competition_id": "479",
+              "competition_name": "Champions League"
+            },
+            {
+              "competition_id": "414",
+              "competition_name": "Estonian-Latvian League"
+            },
+            {
+              "competition_id": "302",
+              "competition_name": "United League"
+            },
+            {
+              "competition_id": "626",
+              "competition_name": "Liga ABA"
+            }
+          ]
+        },
+        {
+          "category_id": "94",
+          "category_name": "Argentina",
+          "competitions": [
+            {
+              "competition_id": "184",
+              "competition_name": "LNB"
+            },
+            {
+              "competition_id": "1359",
+              "competition_name": "Liga Argentina"
+            }
+          ]
+        },
+        {
+          "category_id": "105",
+          "category_name": "Australia",
+          "competitions": [
+            {
+              "competition_id": "228",
+              "competition_name": "NBL"
+            },
+            {
+              "competition_id": "206",
+              "competition_name": "WNBL"
+            }
+          ]
+        },
+        {
+          "category_id": "213",
+          "category_name": "Austria",
+          "competitions": [
+            {
+              "competition_id": "637",
+              "competition_name": "Zweite Liga"
+            },
+            {
+              "competition_id": "1102",
+              "competition_name": "Superliga, Women"
+            },
+            {
+              "competition_id": "618",
+              "competition_name": "Superliga"
+            }
+          ]
+        },
+        {
+          "category_id": "152",
+          "category_name": "Belgium",
+          "competitions": [
+            {
+              "competition_id": "754",
+              "competition_name": "Top Division 1"
+            }
+          ]
+        },
+        {
+          "category_id": "634",
+          "category_name": "Bosnia and Herzegovina",
+          "competitions": [
+            {
+              "competition_id": "8679",
+              "competition_name": "1st Division"
+            }
+          ]
+        },
+        {
+          "category_id": "206",
+          "category_name": "Brazil",
+          "competitions": [
+            {
+              "competition_id": "509",
+              "competition_name": "NBB"
+            }
+          ]
+        },
+        {
+          "category_id": "95",
+          "category_name": "Bulgaria",
+          "competitions": [
+            {
+              "competition_id": "185",
+              "competition_name": "NBL"
+            }
+          ]
+        },
+        {
+          "category_id": "70",
+          "category_name": "China",
+          "competitions": [
+            {
+              "competition_id": "4600",
+              "competition_name": "NBL"
+            }
+          ]
+        },
+        {
+          "category_id": "175",
+          "category_name": "Chinese Taipei",
+          "competitions": [
+            {
+              "competition_id": "7161",
+              "competition_name": "TPBL"
+            },
+            {
+              "competition_id": "404",
+              "competition_name": "P League"
+            }
+          ]
+        },
+        {
+          "category_id": "234",
+          "category_name": "Croatia",
+          "competitions": [
+            {
+              "competition_id": "630",
+              "competition_name": "Premijer liga"
+            }
+          ]
+        },
+        {
+          "category_id": "193",
+          "category_name": "Cyprus",
+          "competitions": [
+            {
+              "competition_id": "636",
+              "competition_name": "Division A"
+            }
+          ]
+        },
+        {
+          "category_id": "140",
+          "category_name": "Czech Republic",
+          "competitions": [
+            {
+              "competition_id": "308",
+              "competition_name": "1. Liga"
+            },
+            {
+              "competition_id": "683",
+              "competition_name": "ZBL"
+            },
+            {
+              "competition_id": "529",
+              "competition_name": "NBL"
+            }
+          ]
+        },
+        {
+          "category_id": "262",
+          "category_name": "Denmark",
+          "competitions": [
+            {
+              "competition_id": "760",
+              "competition_name": "Basketligaen"
+            }
+          ]
+        },
+        {
+          "category_id": "191",
+          "category_name": "Finland",
+          "competitions": [
+            {
+              "competition_id": "572",
+              "competition_name": "Korisliiga"
+            },
+            {
+              "competition_id": "945",
+              "competition_name": "Korisliiga, Women"
+            },
+            {
+              "competition_id": "470",
+              "competition_name": "1. Division B"
+            },
+            {
+              "competition_id": "481",
+              "competition_name": "1 Division"
+            }
+          ]
+        },
+        {
+          "category_id": "177",
+          "category_name": "Greece",
+          "competitions": [
+            {
+              "competition_id": "411",
+              "competition_name": "Elite League"
+            },
+            {
+              "competition_id": "907",
+              "competition_name": "A1, Women"
+            },
+            {
+              "competition_id": "9146",
+              "competition_name": "Basketball League"
+            }
+          ]
+        },
+        {
+          "category_id": "190",
+          "category_name": "Hungary",
+          "competitions": [
+            {
+              "competition_id": "467",
+              "competition_name": "NB I. A"
+            },
+            {
+              "competition_id": "489",
+              "competition_name": "NB I. A, Women"
+            }
+          ]
+        },
+        {
+          "category_id": "160",
+          "category_name": "Iceland",
+          "competitions": [
+            {
+              "competition_id": "778",
+              "competition_name": "Cup, Women"
+            },
+            {
+              "competition_id": "539",
+              "competition_name": "Urvalsdeild"
+            }
+          ]
+        },
+        {
+          "category_id": "9",
+          "category_name": "Indonesia",
+          "competitions": [
+            {
+              "competition_id": "23",
+              "competition_name": "IBL"
+            }
+          ]
+        },
+        {
+          "category_id": "118",
+          "category_name": "Israel",
+          "competitions": [
+            {
+              "competition_id": "450",
+              "competition_name": "Super League"
+            }
+          ]
+        },
+        {
+          "category_id": "538",
+          "category_name": "Jordan",
+          "competitions": [
+            {
+              "competition_id": "8128",
+              "competition_name": "Premier League"
+            }
+          ]
+        },
+        {
+          "category_id": "157",
+          "category_name": "Latvia",
+          "competitions": [
+            {
+              "competition_id": "344",
+              "competition_name": "NBL"
+            }
+          ]
+        },
+        {
+          "category_id": "176",
+          "category_name": "Lithuania",
+          "competitions": [
+            {
+              "competition_id": "402",
+              "competition_name": "NKL"
+            },
+            {
+              "competition_id": "825",
+              "competition_name": "LKL"
+            }
+          ]
+        },
+        {
+          "category_id": "163",
+          "category_name": "Norway",
+          "competitions": [
+            {
+              "competition_id": "371",
+              "competition_name": "BLNO"
+            }
+          ]
+        },
+        {
+          "category_id": "25",
+          "category_name": "Poland",
+          "competitions": [
+            {
+              "competition_id": "129",
+              "competition_name": "PLK"
+            },
+            {
+              "competition_id": "60",
+              "competition_name": "1. Liga"
+            }
+          ]
+        },
+        {
+          "category_id": "39",
+          "category_name": "Portugal",
+          "competitions": [
+            {
+              "competition_id": "83",
+              "competition_name": "LPB"
+            }
+          ]
+        },
+        {
+          "category_id": "113",
+          "category_name": "Republic of Korea",
+          "competitions": [
+            {
+              "competition_id": "226",
+              "competition_name": "WKBL"
+            },
+            {
+              "competition_id": "349",
+              "competition_name": "KBL"
+            }
+          ]
+        },
+        {
+          "category_id": "100",
+          "category_name": "Romania",
+          "competitions": [
+            {
+              "competition_id": "376",
+              "competition_name": "LNB, Women"
+            },
+            {
+              "competition_id": "196",
+              "competition_name": "Liga Nationala"
+            }
+          ]
+        },
+        {
+          "category_id": "44",
+          "category_name": "Russia",
+          "competitions": [
+            {
+              "competition_id": "10671",
+              "competition_name": "Super League"
+            }
+          ]
+        },
+        {
+          "category_id": "380",
+          "category_name": "Saudi Arabia",
+          "competitions": [
+            {
+              "competition_id": "2388",
+              "competition_name": "SBL"
+            }
+          ]
+        },
+        {
+          "category_id": "47",
+          "category_name": "Serbia",
+          "competitions": [
+            {
+              "competition_id": "521",
+              "competition_name": "2. MLS"
+            }
+          ]
+        },
+        {
+          "category_id": "207",
+          "category_name": "Slovakia",
+          "competitions": [
+            {
+              "competition_id": "512",
+              "competition_name": "Extraliga"
+            },
+            {
+              "competition_id": "712",
+              "competition_name": "Extraliga, Women"
+            }
+          ]
+        },
+        {
+          "category_id": "84",
+          "category_name": "Slovenia",
+          "competitions": [
+            {
+              "competition_id": "1785",
+              "competition_name": "1. SKL, Women"
+            },
+            {
+              "competition_id": "162",
+              "competition_name": "1. A SKL"
+            }
+          ]
+        },
+        {
+          "category_id": "214",
+          "category_name": "Sweden",
+          "competitions": [
+            {
+              "competition_id": "785",
+              "competition_name": "Superettan"
+            },
+            {
+              "competition_id": "533",
+              "competition_name": "SBL, Women"
+            },
+            {
+              "competition_id": "542",
+              "competition_name": "SBL"
+            }
+          ]
+        },
+        {
+          "category_id": "211",
+          "category_name": "Switzerland",
+          "competitions": [
+            {
+              "competition_id": "2970",
+              "competition_name": "SB League"
+            },
+            {
+              "competition_id": "642",
+              "competition_name": "NLB"
+            }
+          ]
+        },
+        {
+          "category_id": "308",
+          "category_name": "Tunisia",
+          "competitions": [
+            {
+              "competition_id": "1206",
+              "competition_name": "National A League"
+            }
+          ]
+        },
+        {
+          "category_id": "37",
+          "category_name": "Turkiye",
+          "competitions": [
+            {
+              "competition_id": "696",
+              "competition_name": "Super Lig"
+            },
+            {
+              "competition_id": "364",
+              "competition_name": "TB2L"
+            },
+            {
+              "competition_id": "8797",
+              "competition_name": "Cup, Women"
+            },
+            {
+              "competition_id": "3906",
+              "competition_name": "TBL"
+            }
+          ]
+        },
+        {
+          "category_id": "173",
+          "category_name": "Uruguay",
+          "competitions": [
+            {
+              "competition_id": "395",
+              "competition_name": "LUB"
+            }
+          ]
+        },
+        {
+          "category_id": "23",
+          "category_name": "USA",
+          "competitions": [
+            {
+              "competition_id": "68",
+              "competition_name": "NBA"
+            },
+            {
+              "competition_id": "53",
+              "competition_name": "NCAA, Regular Season"
+            }
+          ]
+        }
+      ],
+      "top_leagues": {
+        "1": {
+          "competition_id": "60",
+          "competition_name": "1. Liga",
+          "sport_id": "6",
+          "category_id": "25",
+          "category_name": "Poland",
+          "count": "5"
+        }
+      }
+    },
+    {
+      "sport_id": "21",
+      "sport_name": "Cricket",
+      "categories": [
+        {
+          "category_id": "208",
+          "category_name": "International",
+          "competitions": [
+            {
+              "competition_id": "11848",
+              "competition_name": "ODI Series India vs New Zealand"
+            },
+            {
+              "competition_id": "11849",
+              "competition_name": "T20 Series Sri Lanka vs Pakistan"
+            }
+          ]
+        },
+        {
+          "category_id": "203",
+          "category_name": "Australia",
+          "competitions": [
+            {
+              "competition_id": "497",
+              "competition_name": "Big Bash League"
+            },
+            {
+              "competition_id": "564",
+              "competition_name": "National Cricket League, Women"
+            }
+          ]
+        },
+        {
+          "category_id": "122",
+          "category_name": "India",
+          "competitions": [
+            {
+              "competition_id": "1519",
+              "competition_name": "T20 Premier League, Women"
+            }
+          ]
+        },
+        {
+          "category_id": "182",
+          "category_name": "New Zealand",
+          "competitions": [
+            {
+              "competition_id": "428",
+              "competition_name": "Super Smash"
+            },
+            {
+              "competition_id": "454",
+              "competition_name": "Super Smash, Women"
+            }
+          ]
+        },
+        {
+          "category_id": "319",
+          "category_name": "Oman",
+          "competitions": [
+            {
+              "competition_id": "11792",
+              "competition_name": "Oman D20 League"
+            }
+          ]
+        },
+        {
+          "category_id": "141",
+          "category_name": "Simulated Reality League",
+          "competitions": [
+            {
+              "competition_id": "427",
+              "competition_name": "Premier League SRL"
+            },
+            {
+              "competition_id": "309",
+              "competition_name": "T20 International SRL"
+            },
+            {
+              "competition_id": "451",
+              "competition_name": "Caribbean Premier League SRL"
+            },
+            {
+              "competition_id": "9137",
+              "competition_name": "Super Smash SRL"
+            },
+            {
+              "competition_id": "1514",
+              "competition_name": "Big Bash League SRL"
+            },
+            {
+              "competition_id": "338",
+              "competition_name": "Pakistan Super League SRL"
+            },
+            {
+              "competition_id": "1515",
+              "competition_name": "SA T20 League SRL"
+            }
+          ]
+        },
+        {
+          "category_id": "72",
+          "category_name": "South Africa",
+          "competitions": [
+            {
+              "competition_id": "136",
+              "competition_name": "SA20 League"
+            }
+          ]
+        },
+        {
+          "category_id": "535",
+          "category_name": "Sri Lanka",
+          "competitions": [
+            {
+              "competition_id": "11877",
+              "competition_name": "T20 Sundar Gagraj"
+            }
+          ]
+        }
+      ],
+      "top_leagues": {
+        "1": {
+          "competition_id": "11877",
+          "competition_name": "T20 Sundar Gagraj",
+          "sport_id": "21",
+          "category_id": "535",
+          "category_name": "Sri Lanka",
+          "count": "2"
+        },
+        "2": {
+          "competition_id": "11849",
+          "competition_name": "T20 Series Sri Lanka vs Pakistan",
+          "sport_id": "21",
+          "category_id": "208",
+          "category_name": "International",
+          "count": "1"
+        },
+        "3": {
+          "competition_id": "11848",
+          "competition_name": "ODI Series India vs New Zealand",
+          "sport_id": "21",
+          "category_id": "208",
+          "category_name": "International",
+          "count": "1"
+        },
+        "6": {
+          "competition_id": "11792",
+          "competition_name": "Oman D20 League",
+          "sport_id": "21",
+          "category_id": "319",
+          "category_name": "Oman",
+          "count": "1"
+        }
+      }
+    },
+    {
+      "sport_id": "4",
+      "sport_name": "Table Tennis",
+      "categories": [
+        {
+          "category_id": "7",
+          "category_name": "International",
+          "competitions": [
+            {
+              "competition_id": "22",
+              "competition_name": "TT Elite Series"
+            },
+            {
+              "competition_id": "11870",
+              "competition_name": "WTT Champions Doha, MS"
+            },
+            {
+              "competition_id": "11871",
+              "competition_name": "WTT Champions Doha, WS"
+            },
+            {
+              "competition_id": "11890",
+              "competition_name": "WTT Feeder Vadodara, MS"
+            }
+          ]
+        },
+        {
+          "category_id": "6",
+          "category_name": "Czech Republic",
+          "competitions": [
+            {
+              "competition_id": "16",
+              "competition_name": "Czech Liga Pro"
+            }
+          ]
+        }
+      ],
+      "top_leagues": [
+        {
+          "competition_id": "16",
+          "competition_name": "Czech Liga Pro",
+          "sport_id": "4",
+          "category_id": "6",
+          "category_name": "Czech Republic",
+          "count": "77"
+        },
+        {
+          "competition_id": "21",
+          "competition_name": "TT Cup",
+          "sport_id": "4",
+          "category_id": "0",
+          "category_name": "International",
+          "count": "33"
+        },
+        {
+          "competition_id": "22",
+          "competition_name": "TT Elite Series",
+          "sport_id": "4",
+          "category_id": "7",
+          "category_name": "International",
+          "count": "55"
+        }
+      ]
+    },
+    {
+      "sport_id": "25",
+      "sport_name": "American Football",
+      "categories": [
+        {
+          "category_id": "185",
+          "category_name": "USA",
+          "competitions": [
+            {
+              "competition_id": "436",
+              "competition_name": "NFL"
+            },
+            {
+              "competition_id": "8092",
+              "competition_name": "NCAA Division I, FBS Post Season"
+            }
+          ]
+        }
+      ],
+      "top_leagues": [
+        {
+          "competition_id": "436",
+          "competition_name": "NFL",
+          "sport_id": "25",
+          "category_id": "185",
+          "category_name": "USA",
+          "count": "6"
+        }
+      ]
+    },
+    {
+      "sport_id": "14",
+      "sport_name": "Ice Hockey",
+      "categories": [
+        {
+          "category_id": "101",
+          "category_name": "Germany",
+          "competitions": [
+            {
+              "competition_id": "239",
+              "competition_name": "DEL"
+            },
+            {
+              "competition_id": "198",
+              "competition_name": "DEL 2"
+            },
+            {
+              "competition_id": "507",
+              "competition_name": "Oberliga"
+            }
+          ]
+        },
+        {
+          "category_id": "158",
+          "category_name": "France",
+          "competitions": [
+            {
+              "competition_id": "346",
+              "competition_name": "Ligue Magnus"
+            }
+          ]
+        },
+        {
+          "category_id": "93",
+          "category_name": "International",
+          "competitions": [
+            {
+              "competition_id": "463",
+              "competition_name": "Erste Liga"
+            }
+          ]
+        },
+        {
+          "category_id": "236",
+          "category_name": "Austria",
+          "competitions": [
+            {
+              "competition_id": "635",
+              "competition_name": "ICE Hockey League"
+            }
+          ]
+        },
+        {
+          "category_id": "35",
+          "category_name": "Canada",
+          "competitions": [
+            {
+              "competition_id": "10709",
+              "competition_name": "QMJHL"
+            },
+            {
+              "competition_id": "78",
+              "competition_name": "OHL"
+            },
+            {
+              "competition_id": "417",
+              "competition_name": "WHL"
+            }
+          ]
+        },
+        {
+          "category_id": "85",
+          "category_name": "Czech Republic",
+          "competitions": [
+            {
+              "competition_id": "164",
+              "competition_name": "Extraliga"
+            },
+            {
+              "competition_id": "10442",
+              "competition_name": "U20 Extraliga Junioru"
+            },
+            {
+              "competition_id": "10773",
+              "competition_name": "2. Liga"
+            }
+          ]
+        },
+        {
+          "category_id": "52",
+          "category_name": "Finland",
+          "competitions": [
+            {
+              "competition_id": "103",
+              "competition_name": "Liiga"
+            },
+            {
+              "competition_id": "520",
+              "competition_name": "Mestis"
+            },
+            {
+              "competition_id": "10434",
+              "competition_name": "U20 SM Sarja"
+            }
+          ]
+        },
+        {
+          "category_id": "21",
+          "category_name": "Norway",
+          "competitions": [
+            {
+              "competition_id": "10092",
+              "competition_name": "EHL"
+            },
+            {
+              "competition_id": "10610",
+              "competition_name": "U20 Elite"
+            }
+          ]
+        },
+        {
+          "category_id": "198",
+          "category_name": "Poland",
+          "competitions": [
+            {
+              "competition_id": "484",
+              "competition_name": "Polska Hokej Liga"
+            }
+          ]
+        },
+        {
+          "category_id": "58",
+          "category_name": "Russia",
+          "competitions": [
+            {
+              "competition_id": "187",
+              "competition_name": "KHL"
+            },
+            {
+              "competition_id": "225",
+              "competition_name": "MHL"
+            },
+            {
+              "competition_id": "109",
+              "competition_name": "VHL"
+            }
+          ]
+        },
+        {
+          "category_id": "197",
+          "category_name": "Slovakia",
+          "competitions": [
+            {
+              "competition_id": "633",
+              "competition_name": "Extraliga"
+            },
+            {
+              "competition_id": "483",
+              "competition_name": "SHL"
+            }
+          ]
+        },
+        {
+          "category_id": "115",
+          "category_name": "Sweden",
+          "competitions": [
+            {
+              "competition_id": "342",
+              "competition_name": "SHL"
+            },
+            {
+              "competition_id": "317",
+              "competition_name": "SDHL"
+            },
+            {
+              "competition_id": "593",
+              "competition_name": "HockeyEttan"
+            }
+          ]
+        },
+        {
+          "category_id": "147",
+          "category_name": "Switzerland",
+          "competitions": [
+            {
+              "competition_id": "322",
+              "competition_name": "National League"
+            }
+          ]
+        },
+        {
+          "category_id": "19",
+          "category_name": "USA",
+          "competitions": [
+            {
+              "competition_id": "208",
+              "competition_name": "AHL"
+            },
+            {
+              "competition_id": "116",
+              "competition_name": "NHL"
+            },
+            {
+              "competition_id": "45",
+              "competition_name": "NCAA, Regular Season"
+            }
+          ]
+        }
+      ],
+      "top_leagues": []
+    },
+    {
+      "sport_id": "17",
+      "sport_name": "Snooker",
+      "categories": [
+        {
+          "category_id": "28",
+          "category_name": "International",
+          "competitions": [
+            {
+              "competition_id": "8297",
+              "competition_name": "The Masters"
+            },
+            {
+              "competition_id": "1014",
+              "competition_name": "Welsh Open"
+            }
+          ]
+        }
+      ],
+      "top_leagues": {
+        "2": {
+          "competition_id": "1014",
+          "competition_name": "Welsh Open",
+          "sport_id": "17",
+          "category_id": "28",
+          "category_name": "International",
+          "count": "15"
+        }
+      }
+    },
+    {
+      "sport_id": "16",
+      "sport_name": "Volleyball",
+      "categories": [
+        {
+          "category_id": "232",
+          "category_name": "France",
+          "competitions": [
+            {
+              "competition_id": "641",
+              "competition_name": "Ligue A"
+            },
+            {
+              "competition_id": "615",
+              "competition_name": "Ligue B"
+            }
+          ]
+        },
+        {
+          "category_id": "61",
+          "category_name": "Austria",
+          "competitions": [
+            {
+              "competition_id": "6682",
+              "competition_name": "Volley League, Women"
+            }
+          ]
+        },
+        {
+          "category_id": "51",
+          "category_name": "Brazil",
+          "competitions": [
+            {
+              "competition_id": "543",
+              "competition_name": "Superliga"
+            }
+          ]
+        },
+        {
+          "category_id": "200",
+          "category_name": "Bulgaria",
+          "competitions": [
+            {
+              "competition_id": "840",
+              "competition_name": "Super League"
+            }
+          ]
+        },
+        {
+          "category_id": "597",
+          "category_name": "Czechia",
+          "competitions": [
+            {
+              "competition_id": "7654",
+              "competition_name": "1. Liga, Women"
+            },
+            {
+              "competition_id": "7674",
+              "competition_name": "1. Liga"
+            }
+          ]
+        },
+        {
+          "category_id": "164",
+          "category_name": "Denmark",
+          "competitions": [
+            {
+              "competition_id": "370",
+              "competition_name": "VolleyLigaen"
+            }
+          ]
+        },
+        {
+          "category_id": "123",
+          "category_name": "Greece",
+          "competitions": [
+            {
+              "competition_id": "11154",
+              "competition_name": "Volley League"
+            }
+          ]
+        },
+        {
+          "category_id": "136",
+          "category_name": "Hungary",
+          "competitions": [
+            {
+              "competition_id": "534",
+              "competition_name": "Extraliga, Women"
+            }
+          ]
+        },
+        {
+          "category_id": "45",
+          "category_name": "Poland",
+          "competitions": [
+            {
+              "competition_id": "92",
+              "competition_name": "Liga Siatkowki"
+            },
+            {
+              "competition_id": "465",
+              "competition_name": "Liga Siatkowki, Women"
+            },
+            {
+              "competition_id": "537",
+              "competition_name": "1. Liga"
+            },
+            {
+              "competition_id": "1013",
+              "competition_name": "Puchar Polski"
+            }
+          ]
+        },
+        {
+          "category_id": "223",
+          "category_name": "Romania",
+          "competitions": [
+            {
+              "competition_id": "6907",
+              "competition_name": "Divizia A1"
+            }
+          ]
+        },
+        {
+          "category_id": "67",
+          "category_name": "Russia",
+          "competitions": [
+            {
+              "competition_id": "244",
+              "competition_name": "Superliga"
+            },
+            {
+              "competition_id": "189",
+              "competition_name": "Superliga, Women"
+            },
+            {
+              "competition_id": "123",
+              "competition_name": "Pro League"
+            }
+          ]
+        },
+        {
+          "category_id": "192",
+          "category_name": "Slovenia",
+          "competitions": [
+            {
+              "competition_id": "494",
+              "competition_name": "1. DOL"
+            }
+          ]
+        },
+        {
+          "category_id": "231",
+          "category_name": "Turkiye",
+          "competitions": [
+            {
+              "competition_id": "613",
+              "competition_name": "Sultanlar Ligi, Women"
+            }
+          ]
+        }
+      ],
+      "top_leagues": []
+    },
+    {
+      "sport_id": "32",
+      "sport_name": "ESport Counter-Strike",
+      "categories": [
+        {
+          "category_id": "637",
+          "category_name": "Eden Esports CS:GO",
+          "competitions": [
+            {
+              "competition_id": "10603",
+              "competition_name": "CCT European Series"
+            }
+          ]
+        },
+        {
+          "category_id": "752",
+          "category_name": "European Pro League",
+          "competitions": [
+            {
+              "competition_id": "11850",
+              "competition_name": "European Pro League Series"
+            }
+          ]
+        },
+        {
+          "category_id": "753",
+          "category_name": "NODWIN Gaming",
+          "competitions": [
+            {
+              "competition_id": "11888",
+              "competition_name": "NODWIN Clutch Series"
+            }
+          ]
+        },
+        {
+          "category_id": "697",
+          "category_name": "United21",
+          "competitions": [
+            {
+              "competition_id": "10619",
+              "competition_name": "United21"
+            }
+          ]
+        }
+      ],
+      "top_leagues": {
+        "8": {
+          "competition_id": "10603",
+          "competition_name": "CCT European Series",
+          "sport_id": "32",
+          "category_id": "637",
+          "category_name": "Eden Esports CS:GO",
+          "count": "1"
+        }
+      }
+    },
+    {
+      "sport_id": "10",
+      "sport_name": "Handball",
+      "categories": [
+        {
+          "category_id": "24",
+          "category_name": "International",
+          "competitions": [
+            {
+              "competition_id": "10429",
+              "competition_name": "EHF Champions League, Women"
+            },
+            {
+              "competition_id": "2500",
+              "competition_name": "Int. Friendly Games"
+            },
+            {
+              "competition_id": "7584",
+              "competition_name": "EHF Euro, Qualification"
+            },
+            {
+              "competition_id": "504",
+              "competition_name": "EHF European League, Women"
+            },
+            {
+              "competition_id": "11276",
+              "competition_name": "Golden League"
+            }
+          ]
+        },
+        {
+          "category_id": "112",
+          "category_name": "Denmark",
+          "competitions": [
+            {
+              "competition_id": "222",
+              "competition_name": "Kvindeligaen, Women"
+            }
+          ]
+        },
+        {
+          "category_id": "121",
+          "category_name": "Republic of Korea",
+          "competitions": [
+            {
+              "competition_id": "246",
+              "competition_name": "H League, Women"
+            }
+          ]
+        },
+        {
+          "category_id": "253",
+          "category_name": "Slovenia",
+          "competitions": [
+            {
+              "competition_id": "7652",
+              "competition_name": "1. SRL, Women"
+            }
+          ]
+        },
+        {
+          "category_id": "204",
+          "category_name": "Sweden",
+          "competitions": [
+            {
+              "competition_id": "561",
+              "competition_name": "Elitserien Women"
+            },
+            {
+              "competition_id": "499",
+              "competition_name": "Allsvenskan"
+            }
+          ]
+        }
+      ],
+      "top_leagues": []
+    },
+    {
+      "sport_id": "13",
+      "sport_name": "Rugby",
+      "categories": [
+        {
+          "category_id": "43",
+          "category_name": "Rugby Union",
+          "competitions": [
+            {
+              "competition_id": "87",
+              "competition_name": "European Rugby Champions Cup"
+            },
+            {
+              "competition_id": "419",
+              "competition_name": "Pro D2"
+            },
+            {
+              "competition_id": "657",
+              "competition_name": "League One, Division 1"
+            }
+          ]
+        }
+      ],
+      "top_leagues": []
+    },
+    {
+      "sport_id": "39",
+      "sport_name": "ESport Call of Duty",
+      "categories": [
+        {
+          "category_id": "741",
+          "category_name": "MLG CoD",
+          "competitions": [
+            {
+              "competition_id": "11668",
+              "competition_name": "Call of Duty League"
+            }
+          ]
+        }
+      ],
+      "top_leagues": [
+        {
+          "competition_id": "11668",
+          "competition_name": "Call of Duty League",
+          "sport_id": "39",
+          "category_id": "741",
+          "category_name": "MLG CoD",
+          "count": "8"
+        }
+      ]
+    },
+    {
+      "sport_id": "23",
+      "sport_name": "Futsal",
+      "categories": [
+        {
+          "category_id": "186",
+          "category_name": "Spain",
+          "competitions": [
+            {
+              "competition_id": "810",
+              "competition_name": "Primera Division"
+            }
+          ]
+        },
+        {
+          "category_id": "212",
+          "category_name": "Croatia",
+          "competitions": [
+            {
+              "competition_id": "11886",
+              "competition_name": "Croatian Cup"
+            }
+          ]
+        },
+        {
+          "category_id": "181",
+          "category_name": "Czech Republic",
+          "competitions": [
+            {
+              "competition_id": "426",
+              "competition_name": "1st Liga"
+            }
+          ]
+        },
+        {
+          "category_id": "138",
+          "category_name": "Russia",
+          "competitions": [
+            {
+              "competition_id": "304",
+              "competition_name": "Superliga"
+            }
+          ]
+        },
+        {
+          "category_id": "358",
+          "category_name": "Slovenia",
+          "competitions": [
+            {
+              "competition_id": "1657",
+              "competition_name": "1. SFL"
+            }
+          ]
+        }
+      ],
+      "top_leagues": [
+        {
+          "competition_id": "11886",
+          "competition_name": "Croatian Cup",
+          "sport_id": "23",
+          "category_id": "212",
+          "category_name": "Croatia",
+          "count": "2"
+        }
+      ]
+    },
+    {
+      "sport_id": "27",
+      "sport_name": "Waterpolo",
+      "categories": [
+        {
+          "category_id": "218",
+          "category_name": "International",
+          "competitions": [
+            {
+              "competition_id": "559",
+              "competition_name": "European Championship"
+            }
+          ]
+        }
+      ],
+      "top_leagues": [
+        {
+          "competition_id": "559",
+          "competition_name": "European Championship",
+          "sport_id": "27",
+          "category_id": "218",
+          "category_name": "International",
+          "count": "8"
+        }
+      ]
+    },
+    {
+      "sport_id": "5",
+      "sport_name": "Darts",
+      "categories": [
+        {
+          "category_id": "10",
+          "category_name": "International",
+          "competitions": [
+            {
+              "competition_id": "24",
+              "competition_name": "Modus Super Series"
+            }
+          ]
+        }
+      ],
+      "top_leagues": [
+        {
+          "competition_id": "24",
+          "competition_name": "Modus Super Series",
+          "sport_id": "5",
+          "category_id": "10",
+          "category_name": "International",
+          "count": "23"
+        }
+      ]
+    },
+    {
+      "sport_id": "12",
+      "sport_name": "eSoccer",
+      "categories": [
+        {
+          "category_id": "20",
+          "category_name": "eAdriatic League",
+          "competitions": [
+            {
+              "competition_id": "48",
+              "competition_name": "eAdriatic League"
+            }
+          ]
+        },
+        {
+          "category_id": "14",
+          "category_name": "GT Sports League",
+          "competitions": [
+            {
+              "competition_id": "37",
+              "competition_name": "GT Leagues"
+            }
+          ]
+        }
+      ],
+      "top_leagues": [
+        {
+          "competition_id": "37",
+          "competition_name": "GT Leagues",
+          "sport_id": "12",
+          "category_id": "14",
+          "category_name": "GT Sports League",
+          "count": "8"
+        },
+        {
+          "competition_id": "48",
+          "competition_name": "eAdriatic League",
+          "sport_id": "12",
+          "category_id": "20",
+          "category_name": "eAdriatic League",
+          "count": "8"
+        }
+      ]
+    },
+    {
+      "sport_id": "37",
+      "sport_name": "Floorball",
+      "categories": [
+        {
+          "category_id": "683",
+          "category_name": "Finland",
+          "competitions": [
+            {
+              "competition_id": "10568",
+              "competition_name": "F-Liiga"
+            }
+          ]
+        },
+        {
+          "category_id": "684",
+          "category_name": "Norway",
+          "competitions": [
+            {
+              "competition_id": "10586",
+              "competition_name": "Eliteserien"
+            }
+          ]
+        },
+        {
+          "category_id": "685",
+          "category_name": "Slovakia",
+          "competitions": [
+            {
+              "competition_id": "10587",
+              "competition_name": "Extraliga"
+            }
+          ]
+        },
+        {
+          "category_id": "707",
+          "category_name": "Sweden",
+          "competitions": [
+            {
+              "competition_id": "10717",
+              "competition_name": "Allsvenskan"
+            },
+            {
+              "competition_id": "10708",
+              "competition_name": "Svenska Superligan"
+            }
+          ]
+        },
+        {
+          "category_id": "696",
+          "category_name": "Switzerland",
+          "competitions": [
+            {
+              "competition_id": "10607",
+              "competition_name": "Unihockey Prime League"
+            }
+          ]
+        }
+      ],
+      "top_leagues": {
+        "1": {
+          "competition_id": "10568",
+          "competition_name": "F-Liiga",
+          "sport_id": "37",
+          "category_id": "683",
+          "category_name": "Finland",
+          "count": "3"
+        },
+        "3": {
+          "competition_id": "10586",
+          "competition_name": "Eliteserien",
+          "sport_id": "37",
+          "category_id": "684",
+          "category_name": "Norway",
+          "count": "1"
+        },
+        "4": {
+          "competition_id": "10587",
+          "competition_name": "Extraliga",
+          "sport_id": "37",
+          "category_id": "685",
+          "category_name": "Slovakia",
+          "count": "6"
+        },
+        "5": {
+          "competition_id": "10607",
+          "competition_name": "Unihockey Prime League",
+          "sport_id": "37",
+          "category_id": "696",
+          "category_name": "Switzerland",
+          "count": "6"
+        },
+        "9": {
+          "competition_id": "10684",
+          "competition_name": "Svenska Superligan, Women",
+          "sport_id": "37",
+          "category_id": "0",
+          "category_name": "Sweden",
+          "count": "4"
+        }
+      }
+    },
+    {
+      "sport_id": "38",
+      "sport_name": "ESport Dota",
+      "categories": [
+        {
+          "category_id": "712",
+          "category_name": "Dreamhack Dota2",
+          "competitions": [
+            {
+              "competition_id": "10793",
+              "competition_name": "DreamLeague"
+            }
+          ]
+        }
+      ],
+      "top_leagues": {
+        "2": {
+          "competition_id": "10793",
+          "competition_name": "DreamLeague",
+          "sport_id": "38",
+          "category_id": "712",
+          "category_name": "Dreamhack Dota2",
+          "count": "9"
+        }
+      }
+    },
+    {
+      "sport_id": "18",
+      "sport_name": "Bowls",
+      "categories": [
+        {
+          "category_id": "29",
+          "category_name": "International",
+          "competitions": [
+            {
+              "competition_id": "430",
+              "competition_name": "World Indoor Bowls Ch.sh"
+            }
+          ]
+        }
+      ],
+      "top_leagues": {
+        "1": {
+          "competition_id": "430",
+          "competition_name": "World Indoor Bowls Ch.sh",
+          "sport_id": "18",
+          "category_id": "29",
+          "category_name": "International",
+          "count": "2"
+        }
+      }
+    },
+    {
+      "sport_id": "31",
+      "sport_name": "ESport League of Legends",
+      "categories": [
+        {
+          "category_id": "688",
+          "category_name": "PG Esports",
+          "competitions": [
+            {
+              "competition_id": "10593",
+              "competition_name": "LIT"
+            }
+          ]
+        }
+      ],
+      "top_leagues": {
+        "2": {
+          "competition_id": "10593",
+          "competition_name": "LIT",
+          "sport_id": "31",
+          "category_id": "688",
+          "category_name": "PG Esports",
+          "count": "4"
+        }
+      }
+    },
+    {
+      "sport_id": "26",
+      "sport_name": "Bandy",
+      "categories": [
+        {
+          "category_id": "400",
+          "category_name": "Finland",
+          "competitions": [
+            {
+              "competition_id": "1875",
+              "competition_name": "Bandyliiga"
+            }
+          ]
+        },
+        {
+          "category_id": "394",
+          "category_name": "Norway",
+          "competitions": [
+            {
+              "competition_id": "1841",
+              "competition_name": "Eliteserien"
+            }
+          ]
+        },
+        {
+          "category_id": "294",
+          "category_name": "Sweden",
+          "competitions": [
+            {
+              "competition_id": "1016",
+              "competition_name": "Elitserien"
+            }
+          ]
+        }
+      ],
+      "top_leagues": {
+        "1": {
+          "competition_id": "1016",
+          "competition_name": "Elitserien",
+          "sport_id": "26",
+          "category_id": "294",
+          "category_name": "Sweden",
+          "count": "7"
+        },
+        "2": {
+          "competition_id": "1841",
+          "competition_name": "Eliteserien",
+          "sport_id": "26",
+          "category_id": "394",
+          "category_name": "Norway",
+          "count": "4"
+        },
+        "3": {
+          "competition_id": "1875",
+          "competition_name": "Bandyliiga",
+          "sport_id": "26",
+          "category_id": "400",
+          "category_name": "Finland",
+          "count": "1"
+        }
+      }
+    },
+    {
+      "sport_id": "19",
+      "sport_name": "Field hockey",
+      "categories": [
+        {
+          "category_id": "750",
+          "category_name": "India",
+          "competitions": [
+            {
+              "competition_id": "11839",
+              "competition_name": "Hockey India League"
+            }
+          ]
+        }
+      ],
+      "top_leagues": []
+    }
+  ],
+  "meta": {
+    "limit": 1000,
+    "current_page": 1
+  },
+  "time_elapsed_secs": 1.17924094200134
+}

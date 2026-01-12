@@ -1,0 +1,987 @@
+{
+  "data": [
+    {
+      "home_team": "Amed Sportif Faaliyetler",
+      "game_id": "41110",
+      "match_id": "2725744",
+      "away_team": "Corum FK",
+      "start_time": "2026-01-09 17:00:00",
+      "competition_name": "1. Lig",
+      "category": "Turkiye",
+      "parent_match_id": "61833970",
+      "side_bets": "67",
+      "home_odd": "1.97",
+      "neutral_odd": "3.50",
+      "away_odd": "3.60",
+      "competition_id": "513",
+      "sport_id": "3",
+      "sport_name": "Soccer",
+      "is_esport": false,
+      "is_srl": false,
+      "odds": [
+        {
+          "sub_type_id": "1",
+          "name": "1X2",
+          "odds": [
+            {
+              "display": "1",
+              "odd_key": "Amed Sportif Faaliyetler",
+              "odd_def": "{$competitor1}",
+              "odd_value": "1.97",
+              "special_bet_value": "",
+              "outcome_id": "1",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "X",
+              "odd_key": "draw",
+              "odd_def": "draw",
+              "odd_value": "3.50",
+              "special_bet_value": "",
+              "outcome_id": "2",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "2",
+              "odd_key": "Corum FK",
+              "odd_def": "{$competitor2}",
+              "odd_value": "3.60",
+              "special_bet_value": "",
+              "outcome_id": "3",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "home_team": "Wellington Phoenix",
+      "game_id": "78272",
+      "match_id": "2733034",
+      "away_team": "Melbourne City FC",
+      "start_time": "2026-01-10 03:00:00",
+      "competition_name": "A-League, Women",
+      "category": "Australia",
+      "parent_match_id": "63685067",
+      "side_bets": "16",
+      "home_odd": "3.15",
+      "neutral_odd": "3.50",
+      "away_odd": "1.97",
+      "competition_id": "199",
+      "sport_id": "3",
+      "sport_name": "Soccer",
+      "is_esport": false,
+      "is_srl": false,
+      "odds": [
+        {
+          "sub_type_id": "1",
+          "name": "1X2",
+          "odds": [
+            {
+              "display": "1",
+              "odd_key": "Wellington Phoenix",
+              "odd_def": "{$competitor1}",
+              "odd_value": "3.15",
+              "special_bet_value": "",
+              "outcome_id": "1",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "X",
+              "odd_key": "draw",
+              "odd_def": "draw",
+              "odd_value": "3.50",
+              "special_bet_value": "",
+              "outcome_id": "2",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "2",
+              "odd_key": "Melbourne City FC",
+              "odd_def": "{$competitor2}",
+              "odd_value": "1.97",
+              "special_bet_value": "",
+              "outcome_id": "3",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "home_team": "CONSTANTINE",
+      "game_id": "02403",
+      "match_id": "2740531",
+      "away_team": "SAOURA",
+      "start_time": "2026-01-09 15:00:00",
+      "competition_name": "Ligue 1",
+      "category": "Algeria",
+      "parent_match_id": "67238988",
+      "side_bets": "47",
+      "home_odd": "1.79",
+      "neutral_odd": "3.15",
+      "away_odd": "4.90",
+      "competition_id": "113",
+      "sport_id": "3",
+      "sport_name": "Soccer",
+      "is_esport": false,
+      "is_srl": false,
+      "odds": [
+        {
+          "sub_type_id": "1",
+          "name": "1X2",
+          "odds": [
+            {
+              "display": "1",
+              "odd_key": "CONSTANTINE",
+              "odd_def": "{$competitor1}",
+              "odd_value": "1.79",
+              "special_bet_value": "",
+              "outcome_id": "1",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "X",
+              "odd_key": "draw",
+              "odd_def": "draw",
+              "odd_value": "3.15",
+              "special_bet_value": "",
+              "outcome_id": "2",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "2",
+              "odd_key": "SAOURA",
+              "odd_def": "{$competitor2}",
+              "odd_value": "4.90",
+              "special_bet_value": "",
+              "outcome_id": "3",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "home_team": "Hashtag United",
+      "game_id": "45791",
+      "match_id": "2742153",
+      "away_team": "DARTFORD",
+      "start_time": "2026-01-09 19:45:00",
+      "competition_name": "Isthmian League, Pr. Div",
+      "category": "England Amateur",
+      "parent_match_id": "62158898",
+      "side_bets": "19",
+      "home_odd": "3.05",
+      "neutral_odd": "3.65",
+      "away_odd": "2.05",
+      "competition_id": "156",
+      "sport_id": "3",
+      "sport_name": "Soccer",
+      "is_esport": false,
+      "is_srl": false,
+      "odds": [
+        {
+          "sub_type_id": "1",
+          "name": "1X2",
+          "odds": [
+            {
+              "display": "1",
+              "odd_key": "Hashtag United",
+              "odd_def": "{$competitor1}",
+              "odd_value": "3.05",
+              "special_bet_value": "",
+              "outcome_id": "1",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "X",
+              "odd_key": "draw",
+              "odd_def": "draw",
+              "odd_value": "3.65",
+              "special_bet_value": "",
+              "outcome_id": "2",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "2",
+              "odd_key": "DARTFORD",
+              "odd_def": "{$competitor2}",
+              "odd_value": "2.05",
+              "special_bet_value": "",
+              "outcome_id": "3",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "home_team": "CRAY",
+      "game_id": "19240",
+      "match_id": "2742154",
+      "away_team": "AVELEY",
+      "start_time": "2026-01-09 19:45:00",
+      "competition_name": "Isthmian League, Pr. Div",
+      "category": "England Amateur",
+      "parent_match_id": "62158896",
+      "side_bets": "19",
+      "home_odd": "2.50",
+      "neutral_odd": "3.60",
+      "away_odd": "2.41",
+      "competition_id": "156",
+      "sport_id": "3",
+      "sport_name": "Soccer",
+      "is_esport": false,
+      "is_srl": false,
+      "odds": [
+        {
+          "sub_type_id": "1",
+          "name": "1X2",
+          "odds": [
+            {
+              "display": "1",
+              "odd_key": "CRAY",
+              "odd_def": "{$competitor1}",
+              "odd_value": "2.50",
+              "special_bet_value": "",
+              "outcome_id": "1",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "X",
+              "odd_key": "draw",
+              "odd_def": "draw",
+              "odd_value": "3.60",
+              "special_bet_value": "",
+              "outcome_id": "2",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "2",
+              "odd_key": "AVELEY",
+              "odd_def": "{$competitor2}",
+              "odd_value": "2.41",
+              "special_bet_value": "",
+              "outcome_id": "3",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "home_team": "KYRGYZSTAN U23",
+      "game_id": "92984",
+      "match_id": "2742167",
+      "away_team": "VIETNAM U23",
+      "start_time": "2026-01-09 14:00:00",
+      "competition_name": "AFC U23 Asian Cup",
+      "category": "International Youth",
+      "parent_match_id": "64322873",
+      "side_bets": "16",
+      "home_odd": "3.15",
+      "neutral_odd": "2.75",
+      "away_odd": "2.37",
+      "competition_id": "2641",
+      "sport_id": "3",
+      "sport_name": "Soccer",
+      "is_esport": false,
+      "is_srl": false,
+      "odds": [
+        {
+          "sub_type_id": "1",
+          "name": "1X2",
+          "odds": [
+            {
+              "display": "1",
+              "odd_key": "KYRGYZSTAN U23",
+              "odd_def": "{$competitor1}",
+              "odd_value": "3.15",
+              "special_bet_value": "",
+              "outcome_id": "1",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "X",
+              "odd_key": "draw",
+              "odd_def": "draw",
+              "odd_value": "2.75",
+              "special_bet_value": "",
+              "outcome_id": "2",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "2",
+              "odd_key": "VIETNAM U23",
+              "odd_def": "{$competitor2}",
+              "odd_value": "2.37",
+              "special_bet_value": "",
+              "outcome_id": "3",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "home_team": "Al-Taawoun FC",
+      "game_id": "42259",
+      "match_id": "2731844",
+      "away_team": "Al-Shabab FC (SA)",
+      "start_time": "2026-01-09 15:05:00",
+      "competition_name": "Saudi Pro League",
+      "category": "Saudi Arabia",
+      "parent_match_id": "64055539",
+      "side_bets": "79",
+      "home_odd": "2.20",
+      "neutral_odd": "3.30",
+      "away_odd": "3.30",
+      "competition_id": "623",
+      "sport_id": "3",
+      "sport_name": "Soccer",
+      "is_esport": false,
+      "is_srl": false,
+      "odds": [
+        {
+          "sub_type_id": "1",
+          "name": "1X2",
+          "odds": [
+            {
+              "display": "1",
+              "odd_key": "Al-Taawoun FC",
+              "odd_def": "{$competitor1}",
+              "odd_value": "2.20",
+              "special_bet_value": "",
+              "outcome_id": "1",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "X",
+              "odd_key": "draw",
+              "odd_def": "draw",
+              "odd_value": "3.30",
+              "special_bet_value": "",
+              "outcome_id": "2",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "2",
+              "odd_key": "Al-Shabab FC (SA)",
+              "odd_def": "{$competitor2}",
+              "odd_value": "3.30",
+              "special_bet_value": "",
+              "outcome_id": "3",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "home_team": "Jordan U23",
+      "game_id": "13292",
+      "match_id": "2742419",
+      "away_team": "Saudi Arabia U23",
+      "start_time": "2026-01-09 16:30:00",
+      "competition_name": "AFC U23 Asian Cup",
+      "category": "International Youth",
+      "parent_match_id": "64322875",
+      "side_bets": "16",
+      "home_odd": "5.20",
+      "neutral_odd": "3.60",
+      "away_odd": "1.58",
+      "competition_id": "2641",
+      "sport_id": "3",
+      "sport_name": "Soccer",
+      "is_esport": false,
+      "is_srl": false,
+      "odds": [
+        {
+          "sub_type_id": "1",
+          "name": "1X2",
+          "odds": [
+            {
+              "display": "1",
+              "odd_key": "Jordan U23",
+              "odd_def": "{$competitor1}",
+              "odd_value": "5.20",
+              "special_bet_value": "",
+              "outcome_id": "1",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "X",
+              "odd_key": "draw",
+              "odd_def": "draw",
+              "odd_value": "3.60",
+              "special_bet_value": "",
+              "outcome_id": "2",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "2",
+              "odd_key": "Saudi Arabia U23",
+              "odd_def": "{$competitor2}",
+              "odd_value": "1.58",
+              "special_bet_value": "",
+              "outcome_id": "3",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "home_team": "MEKELLE 70 ENDERTA",
+      "game_id": "18656",
+      "match_id": "2743231",
+      "away_team": "Sheger Ketema",
+      "start_time": "2026-01-09 15:00:00",
+      "competition_name": "Premier League",
+      "category": "Ethiopia",
+      "parent_match_id": "64480653",
+      "side_bets": "5",
+      "home_odd": "2.37",
+      "neutral_odd": "2.80",
+      "away_odd": "3.05",
+      "competition_id": "36",
+      "sport_id": "3",
+      "sport_name": "Soccer",
+      "is_esport": false,
+      "is_srl": false,
+      "odds": [
+        {
+          "sub_type_id": "1",
+          "name": "1X2",
+          "odds": [
+            {
+              "display": "1",
+              "odd_key": "MEKELLE 70 ENDERTA",
+              "odd_def": "{$competitor1}",
+              "odd_value": "2.37",
+              "special_bet_value": "",
+              "outcome_id": "1",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "X",
+              "odd_key": "draw",
+              "odd_def": "draw",
+              "odd_value": "2.80",
+              "special_bet_value": "",
+              "outcome_id": "2",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "2",
+              "odd_key": "Sheger Ketema",
+              "odd_def": "{$competitor2}",
+              "odd_value": "3.05",
+              "special_bet_value": "",
+              "outcome_id": "3",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "home_team": "Venados FC",
+      "game_id": "72526",
+      "match_id": "2729813",
+      "away_team": "Irapuato",
+      "start_time": "2026-01-10 01:00:00",
+      "competition_name": "Liga de Expansion MX, Clausura",
+      "category": "Mexico",
+      "parent_match_id": "66919354",
+      "side_bets": "47",
+      "home_odd": "2.44",
+      "neutral_odd": "3.30",
+      "away_odd": "2.70",
+      "competition_id": "219",
+      "sport_id": "3",
+      "sport_name": "Soccer",
+      "is_esport": false,
+      "is_srl": false,
+      "odds": [
+        {
+          "sub_type_id": "1",
+          "name": "1X2",
+          "odds": [
+            {
+              "display": "1",
+              "odd_key": "Venados FC",
+              "odd_def": "{$competitor1}",
+              "odd_value": "2.44",
+              "special_bet_value": "",
+              "outcome_id": "1",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "X",
+              "odd_key": "draw",
+              "odd_def": "draw",
+              "odd_value": "3.30",
+              "special_bet_value": "",
+              "outcome_id": "2",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            },
+            {
+              "display": "2",
+              "odd_key": "Irapuato",
+              "odd_def": "{$competitor2}",
+              "odd_value": "2.70",
+              "special_bet_value": "",
+              "outcome_id": "3",
+              "parsed_special_bet_value": {
+                "": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "total": "95",
+    "tags": [
+      {
+        "tag_id": -1,
+        "tag_title": "Top Countries & Leagues",
+        "tag_group_id": -1,
+        "tag_group_type_reference": "",
+        "tag_group_type_id": -1,
+        "tag_group_type": "",
+        "country": null,
+        "status": 1
+      }
+    ],
+    "limit": 10,
+    "current_page": 4,
+    "filters": [
+      {
+        "name": "1x2 / Winner",
+        "sub_type_id": "1",
+        "sport_ids": [
+          "3",
+          "1",
+          "2523561",
+          "2523554",
+          "2",
+          "2523569",
+          "2523563",
+          "2523560",
+          "2523562",
+          "2523564",
+          "2523570"
+        ],
+        "odd_keys": [
+          "1",
+          "X",
+          "2"
+        ]
+      },
+      {
+        "name": "Double Chance",
+        "sub_type_id": "10",
+        "sport_ids": [
+          "3",
+          "2523561",
+          "2",
+          "2523562",
+          "2523570"
+        ],
+        "odd_keys": [
+          "1X",
+          "12",
+          "X2"
+        ]
+      },
+      {
+        "name": "1st Half 1x2",
+        "sub_type_id": "60",
+        "sport_ids": [
+          "3",
+          "2523554"
+        ],
+        "odd_keys": [
+          "1",
+          "X",
+          "2"
+        ]
+      },
+      {
+        "name": "Both Teams To Score",
+        "sub_type_id": "29",
+        "sport_ids": [
+          "3"
+        ],
+        "odd_keys": [
+          "Yes",
+          "No"
+        ]
+      }
+    ],
+    "sports": [
+      {
+        "sport_id": -1,
+        "sport_name": "All Sports"
+      },
+      {
+        "sport_id": "1",
+        "sport_name": "Tennis"
+      },
+      {
+        "sport_id": "3",
+        "sport_name": "Soccer"
+      },
+      {
+        "sport_id": "4",
+        "sport_name": "Table Tennis"
+      },
+      {
+        "sport_id": "5",
+        "sport_name": "Darts"
+      },
+      {
+        "sport_id": "6",
+        "sport_name": "Basketball"
+      },
+      {
+        "sport_id": "10",
+        "sport_name": "Handball"
+      },
+      {
+        "sport_id": "11",
+        "sport_name": "Boxing"
+      },
+      {
+        "sport_id": "12",
+        "sport_name": "eSoccer"
+      },
+      {
+        "sport_id": "13",
+        "sport_name": "Rugby"
+      },
+      {
+        "sport_id": "14",
+        "sport_name": "Ice Hockey"
+      },
+      {
+        "sport_id": "16",
+        "sport_name": "Volleyball"
+      },
+      {
+        "sport_id": "17",
+        "sport_name": "Snooker"
+      },
+      {
+        "sport_id": "18",
+        "sport_name": "Bowls"
+      },
+      {
+        "sport_id": "19",
+        "sport_name": "Field hockey"
+      },
+      {
+        "sport_id": "21",
+        "sport_name": "Cricket"
+      },
+      {
+        "sport_id": "23",
+        "sport_name": "Futsal"
+      },
+      {
+        "sport_id": "25",
+        "sport_name": "American Football"
+      },
+      {
+        "sport_id": "26",
+        "sport_name": "Bandy"
+      },
+      {
+        "sport_id": "27",
+        "sport_name": "Waterpolo"
+      },
+      {
+        "sport_id": "31",
+        "sport_name": "ESport League of Legends"
+      },
+      {
+        "sport_id": "32",
+        "sport_name": "ESport Counter-Strike"
+      },
+      {
+        "sport_id": "37",
+        "sport_name": "Floorball"
+      },
+      {
+        "sport_id": "38",
+        "sport_name": "ESport Dota"
+      },
+      {
+        "sport_id": "39",
+        "sport_name": "ESport Call of Duty"
+      }
+    ],
+    "tabs": [
+      {
+        "id": -1,
+        "date": "2026-01-09",
+        "name": "Today's Highlights",
+        "period_start": "2026-01-09 04:00:00",
+        "period_end": "2026-01-10 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": -2,
+        "date": "2026-01-09",
+        "name": "🔥 Next 48hrs",
+        "period_start": "2026-01-09 04:00:00",
+        "period_end": "2026-03-10 04:01:00",
+        "prioritized": false
+      },
+      {
+        "id": 1,
+        "date": "2026-01-10",
+        "name": "Tomorrow",
+        "period_start": "2026-01-10 04:00:00",
+        "period_end": "2026-01-11 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 2,
+        "date": "2026-01-11",
+        "name": "Sunday",
+        "period_start": "2026-01-11 04:00:00",
+        "period_end": "2026-01-12 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 3,
+        "date": "2026-01-12",
+        "name": "Monday",
+        "period_start": "2026-01-12 04:00:00",
+        "period_end": "2026-01-13 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 4,
+        "date": "2026-01-13",
+        "name": "Tuesday",
+        "period_start": "2026-01-13 04:00:00",
+        "period_end": "2026-01-14 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 5,
+        "date": "2026-01-14",
+        "name": "Wednesday",
+        "period_start": "2026-01-14 04:00:00",
+        "period_end": "2026-01-15 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 6,
+        "date": "2026-01-15",
+        "name": "Thursday",
+        "period_start": "2026-01-15 04:00:00",
+        "period_end": "2026-01-16 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 7,
+        "date": "2026-01-16",
+        "name": "Friday",
+        "period_start": "2026-01-16 04:00:00",
+        "period_end": "2026-01-17 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 8,
+        "date": "2026-01-17",
+        "name": "Next Week",
+        "period_start": "2026-01-17 04:00:00",
+        "period_end": "2026-03-10 04:01:00",
+        "prioritized": false
+      }
+    ],
+    "periods": [
+      {
+        "id": -1,
+        "date": "2026-01-09",
+        "name": "Today's Highlights",
+        "period_start": "2026-01-09 04:00:00",
+        "period_end": "2026-01-10 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": -2,
+        "date": "2026-01-09",
+        "name": "🔥 Next 48hrs",
+        "period_start": "2026-01-09 04:00:00",
+        "period_end": "2026-01-11 04:01:00",
+        "prioritized": false
+      },
+      {
+        "id": 1,
+        "date": "2026-01-10",
+        "name": "Tomorrow",
+        "period_start": "2026-01-10 04:00:00",
+        "period_end": "2026-01-11 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 2,
+        "date": "2026-01-11",
+        "name": "Sunday",
+        "period_start": "2026-01-11 04:00:00",
+        "period_end": "2026-01-12 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 3,
+        "date": "2026-01-12",
+        "name": "Monday",
+        "period_start": "2026-01-12 04:00:00",
+        "period_end": "2026-01-13 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 4,
+        "date": "2026-01-13",
+        "name": "Tuesday",
+        "period_start": "2026-01-13 04:00:00",
+        "period_end": "2026-01-14 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 5,
+        "date": "2026-01-14",
+        "name": "Wednesday",
+        "period_start": "2026-01-14 04:00:00",
+        "period_end": "2026-01-15 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 6,
+        "date": "2026-01-15",
+        "name": "Thursday",
+        "period_start": "2026-01-15 04:00:00",
+        "period_end": "2026-01-16 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 7,
+        "date": "2026-01-16",
+        "name": "Friday",
+        "period_start": "2026-01-16 04:00:00",
+        "period_end": "2026-01-17 04:01:00",
+        "prioritized": true
+      },
+      {
+        "id": 8,
+        "date": "2026-01-17",
+        "name": "Next Week",
+        "period_start": "2026-01-17 04:00:00",
+        "period_end": "2026-05-09 04:01:00",
+        "prioritized": false
+      },
+      {
+        "id": 9,
+        "date": "2026-01-09",
+        "name": "All",
+        "period_start": "2026-01-09 04:00:00",
+        "period_end": "2026-05-09 04:01:00",
+        "prioritized": false
+      }
+    ],
+    "sort_options": [
+      {
+        "id": 1,
+        "name": "Highlights"
+      },
+      {
+        "id": 2,
+        "name": "Start time"
+      },
+      {
+        "id": 3,
+        "name": "Top leagues"
+      }
+    ],
+    "current_tab": [
+      {
+        "id": -2,
+        "date": "2026-01-09",
+        "name": "🔥 Next 48hrs",
+        "period_start": "2026-01-09 04:00:00",
+        "period_end": "2026-03-10 04:01:00",
+        "prioritized": false
+      }
+    ],
+    "is_boosted": false,
+    "is_esports": false,
+    "is_srl": false
+  },
+  "time_elapsed_secs": 0.0201020240783691
+}
