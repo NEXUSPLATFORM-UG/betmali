@@ -68,9 +68,11 @@ export function log(message: string, source = "express") {
 }
 
 // Poll for results every 60 seconds for background settlement
-setInterval(() => runBackgroundSettlement(db), 60000);
-// Poll live matches every 30 seconds
-setInterval(() => fetchAndStoreLiveMatches(db as any), 30000);
+if (process.env.NODE_ENV !== "production") {
+  setInterval(() => runBackgroundSettlement(db), 60000);
+  // Poll live matches every 30 seconds
+  setInterval(() => fetchAndStoreLiveMatches(db as any), 30000);
+}
 
 // Allow manual triggering via an admin-only endpoint
 app.post("/admin/settle-virtual", async (req, res) => {
